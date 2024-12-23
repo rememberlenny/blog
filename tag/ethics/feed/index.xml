@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/ethics/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:00:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>On the post-centralization of social media</title>
+		<link>/2018/10/24/on-the-post-centralization-of-social-media/</link>
+					<comments>/2018/10/24/on-the-post-centralization-of-social-media/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 24 Oct 2018 19:23:06 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Developer]]></category>
+		<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2018/10/24/on-the-post-centralization-of-social-media/</guid>
+
+					<description><![CDATA[Below are some running thoughts on the centralization of social media. I have been reactivating many of my public art crawlers for publicart.io. In the process, I am only now realizing how drastic some of the post-Cambridge Analytica API changes from Facebook and Instagram are for the internet. While the points below are easily arguable [&#8230;]
+<p><a href="/2018/10/24/on-the-post-centralization-of-social-media/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2018/10/24/on-the-post-centralization-of-social-media/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">748</post-id>	</item>
+	</channel>
+</rss>

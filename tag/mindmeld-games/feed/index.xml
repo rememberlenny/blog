@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/mindmeld-games/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:02:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Rule: Dont start coding at 12:30am</title>
+		<link>/2014/08/06/rule-dont-start-coding-at-1230am/</link>
+					<comments>/2014/08/06/rule-dont-start-coding-at-1230am/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2014 06:12:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[crowdsourcing]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[mindmeld games]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[streetart]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/06/rule-dont-start-coding-at-1230am/</guid>
+
+					<description><![CDATA[Incomplete prototype is live here: http://publicartfound.herokuapp.com/ Code is here: https://github.com/rememberlenny/publicartfound I talked with Nick today and decided to build out a graffiti game. This is a tool for encouraging people to build out the community&#8217;s content for the New Public Arts Foundation projects. Im creating a system to encourage people to help identify the artists [&#8230;]
+<p><a href="/2014/08/06/rule-dont-start-coding-at-1230am/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/06/rule-dont-start-coding-at-1230am/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">375</post-id>	</item>
+	</channel>
+</rss>

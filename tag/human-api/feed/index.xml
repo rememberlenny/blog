@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/human-api/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:03:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Human API: Migrating from Ghostio to WordPress</title>
+		<link>/2014/06/28/human-api-migrating-from-ghostio-to-wordpress/</link>
+					<comments>/2014/06/28/human-api-migrating-from-ghostio-to-wordpress/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sat, 28 Jun 2014 14:02:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[data migration]]></category>
+		<category><![CDATA[ghostio]]></category>
+		<category><![CDATA[human api]]></category>
+		<category><![CDATA[labor market]]></category>
+		<category><![CDATA[odesk]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/06/28/human-api-migrating-from-ghostio-to-wordpress/</guid>
+
+					<description><![CDATA[After our first class, I decided to move my blog over to Tumblr. I previously moved from WordPress to Ghost. Now, I moved from Ghost to Tumblr. In most cases, when you move any structured data from one place to another (ie. a data migration), you use an existing tool that exports and imports data. [&#8230;]
+<p><a href="/2014/06/28/human-api-migrating-from-ghostio-to-wordpress/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/06/28/human-api-migrating-from-ghostio-to-wordpress/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607</post-id>	</item>
+	</channel>
+</rss>

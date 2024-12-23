@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/designreflection/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:03:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Update: publicartfound.com</title>
+		<link>/2014/07/29/update-publicartfoundcom/</link>
+					<comments>/2014/07/29/update-publicartfoundcom/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 29 Jul 2014 14:02:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[designreflection]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[workinprogress]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/29/update-publicartfoundcom/</guid>
+
+					<description><![CDATA[I decided to take my project to the same name as my twitter account. I think this is a good name for what I want to accomplish. I bought publicartfound.com to continue this. Im at 357 github commits and counting. I built out some major features today: The user &#8216;activity feed&#8217; is up. This is [&#8230;]
+<p><a href="/2014/07/29/update-publicartfoundcom/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/29/update-publicartfoundcom/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1315</post-id>	</item>
+	</channel>
+</rss>

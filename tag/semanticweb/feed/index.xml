@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/semanticweb/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:01:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Thoughts on an indexable and easily presentable web.</title>
+		<link>/2015/05/27/thoughts-on-an-indexable-and-easily-presentable/</link>
+					<comments>/2015/05/27/thoughts-on-an-indexable-and-easily-presentable/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 27 May 2015 22:01:16 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Future Of Technology]]></category>
+		<category><![CDATA[Semanticweb]]></category>
+		<category><![CDATA[Web Development]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2015/05/27/thoughts-on-an-indexable-and-easily-presentable/</guid>
+
+					<description><![CDATA[Xposted https://medium.com/@rememberlenny/benefits-of-a-google-and-facebook-optimized-web-c3a50b604814 Google and Facebook changed websites in seemingly obvious ways. SEO and Sharing weren&#8217;t a “thing” until they respectively attained critical mass. Before Google, there were Yahoo and AOL portals. I don’t remember those days. Before Facebook, there was “homepages” and news sites. Websites optimized for visibility on Google. People became aware of the [&#8230;]
+<p><a href="/2015/05/27/thoughts-on-an-indexable-and-easily-presentable/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2015/05/27/thoughts-on-an-indexable-and-easily-presentable/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1341</post-id>	</item>
+		<item>
+		<title>Thoughts on an indexable and easily presentable web.</title>
+		<link>/2015/05/27/thoughts-on-an-indexable-and-easily-presentable-web/</link>
+					<comments>/2015/05/27/thoughts-on-an-indexable-and-easily-presentable-web/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 27 May 2015 00:36:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Future Of Technology]]></category>
+		<category><![CDATA[Semanticweb]]></category>
+		<category><![CDATA[Web Development]]></category>
+		<guid isPermaLink="false">/2015/05/27/thoughts-on-an-indexable-and-easily-presentable-web/</guid>
+
+					<description><![CDATA[Google and Facebook changed websites in seemingly obvious ways. SEO and Sharing weren&#8217;t a “thing” until they respectively attained critical mass. Before Google, there were Yahoo and AOL portals. I don’t remember those days. Before Facebook, there was “homepages” and news sites. Websites optimized for visibility on Google. People became aware of the potential benefits [&#8230;]
+<p><a href="/2015/05/27/thoughts-on-an-indexable-and-easily-presentable-web/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2015/05/27/thoughts-on-an-indexable-and-easily-presentable-web/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1743</post-id>	</item>
+	</channel>
+</rss>

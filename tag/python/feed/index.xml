@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/python/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:00:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>How I built a REST endpoint based Computer Vision task using Flask</title>
+		<link>/2017/12/31/how-i-built-a-rest-endpoint-based-computer-vision-task-using-flask/</link>
+					<comments>/2017/12/31/how-i-built-a-rest-endpoint-based-computer-vision-task-using-flask/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2017 01:33:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Computer Vision]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2017/12/31/how-i-built-a-rest-endpoint-based-computer-vision-task-using-flask/</guid>
+
+					<description><![CDATA[This is a follow up on my process of developing familiarity with computer vision and machine learning techniques. As a web developer (read as “rails developer”), I found this growing sphere exciting, but don’t work with these technologies on a day-to-day. This is month three of a two year journey to explore this field. If [&#8230;]
+<p><a href="/2017/12/31/how-i-built-a-rest-endpoint-based-computer-vision-task-using-flask/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2017/12/31/how-i-built-a-rest-endpoint-based-computer-vision-task-using-flask/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">754</post-id>	</item>
+	</channel>
+</rss>

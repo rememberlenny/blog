@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/disruption-theory/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Tue, 05 Dec 2023 23:04:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Second order effects of companies as content creators</title>
+		<link>/2021/02/13/innovation-parallels-around-trucking-and-zoom/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sat, 13 Feb 2021 08:58:28 +0000</pubDate>
+				<category><![CDATA[video]]></category>
+		<category><![CDATA[bundling and unbundling]]></category>
+		<category><![CDATA[disruption theory]]></category>
+		<category><![CDATA[video editing]]></category>
+		<category><![CDATA[zoom]]></category>
+		<guid isPermaLink="false">/?p=1854</guid>
+
+					<description><![CDATA[TLDR: There&#8217;s going to be a shit ton of temporarily useful content; businesses need to have a quick way to make the worthwhile content stand out. (Thanks Joseph) There are two ideas I have been thinking about over the past few months that I want to document here. The first has to do with disruption, [&#8230;]
+<p><a href="/2021/02/13/innovation-parallels-around-trucking-and-zoom/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1854</post-id>	</item>
+	</channel>
+</rss>

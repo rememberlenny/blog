@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/art-history/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:00:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>The history of art and the finiteness of human production</title>
+		<link>/2016/08/12/the-history-of-art-and-the-finiteness-of-human/</link>
+					<comments>/2016/08/12/the-history-of-art-and-the-finiteness-of-human/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 12 Aug 2016 05:24:19 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[academia]]></category>
+		<category><![CDATA[Art]]></category>
+		<category><![CDATA[art history]]></category>
+		<category><![CDATA[Digital Humanities]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2016/08/12/the-history-of-art-and-the-finiteness-of-human/</guid>
+
+					<description><![CDATA[There is so much ART, but its actually limited. A computer could understand all of the art humanity has produced and analyze it down to its features. Color, stroke, contrast, characters, symbolism. All the symbolism that is produced for meaning can be interpreted. Computers could understand the components that underline meaning in art. Computers have [&#8230;]
+<p><a href="/2016/08/12/the-history-of-art-and-the-finiteness-of-human/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2016/08/12/the-history-of-art-and-the-finiteness-of-human/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">42</post-id>	</item>
+	</channel>
+</rss>

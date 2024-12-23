@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/pitching/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:04:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Under 1 minute pitch</title>
+		<link>/2014/09/17/under-1-minute-pitch/</link>
+					<comments>/2014/09/17/under-1-minute-pitch/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2014 01:17:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[pitching]]></category>
+		<category><![CDATA[Startup]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/09/17/under-1-minute-pitch/</guid>
+
+					<description><![CDATA[There is a boom in the number of amateur street art and graffiti photographers. On Instagram alone, there are over 30 thousand street art photos shared everyday. PublicArtfound is the best place to give those image meaning. We are the only place a photographer goes to share their street art photos, identify artists, and document [&#8230;]
+<p><a href="/2014/09/17/under-1-minute-pitch/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/09/17/under-1-minute-pitch/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">230</post-id>	</item>
+		<item>
+		<title>How to Hackathon</title>
+		<link>/2013/02/03/how-to-hackathon/</link>
+					<comments>/2013/02/03/how-to-hackathon/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sun, 03 Feb 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[hackathon]]></category>
+		<category><![CDATA[pitching]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2013/02/03/how-to-hackathon/</guid>
+
+					<description><![CDATA[The state of Hackathon-ing Last week I attended a Hackathon put on by Google&#8217;s Youtube and GTV team. I was introduced to the event through GOOD Magazine&#8217;s Coding for Good project. While I was not directly participating with GOOD, I ended up working closely with their team members. This Hackathon was particularly different from the [&#8230;]
+<p><a href="/2013/02/03/how-to-hackathon/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2013/02/03/how-to-hackathon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">724</post-id>	</item>
+	</channel>
+</rss>

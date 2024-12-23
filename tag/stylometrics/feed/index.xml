@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/stylometrics/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:02:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Identifying hackers using text patterns</title>
+		<link>/2014/08/06/identifying-hackers-using-text-patterns/</link>
+					<comments>/2014/08/06/identifying-hackers-using-text-patterns/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2014 22:17:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[anarchy]]></category>
+		<category><![CDATA[anonymous]]></category>
+		<category><![CDATA[cyber security]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[stylometrics]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/06/identifying-hackers-using-text-patterns/</guid>
+
+					<description><![CDATA[A major security firm was hacked today. The hack was publicly announced via Reddit&#8217;s /r/anarchism. The hacked company is known for selling surveillance and hacking equipment to countries like Bahrain. The equipment was instrumental in squashing civil revolutions. I was intrigued by the analysis of a Hacker News comment. TLDR: Your spacing and punctuation is [&#8230;]
+<p><a href="/2014/08/06/identifying-hackers-using-text-patterns/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/06/identifying-hackers-using-text-patterns/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1319</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: MOOCs	</title>
+	<atom:link href="/2013/02/07/moocs/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/02/07/moocs/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 07 Aug 2023 22:57:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		By: Articence		</title>
+		<link>/2013/02/07/moocs/#comment-294</link>
+
+		<dc:creator><![CDATA[Articence]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 22:57:58 +0000</pubDate>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2013/02/07/moocs/#comment-294</guid>
+
+					<description><![CDATA[You’re so awesome! I don’t believe I have read a single thing like that before. So great to find someone with some original thoughts on this topic. Really.. thank you for starting this up. This website is something that is needed on the internet, someone with a little originality!]]></description>
+			<content:encoded><![CDATA[<p>You’re so awesome! I don’t believe I have read a single thing like that before. So great to find someone with some original thoughts on this topic. Really.. thank you for starting this up. This website is something that is needed on the internet, someone with a little originality!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

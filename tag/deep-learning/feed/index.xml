@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/deep-learning/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:00:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>On Building an Instagram Street Art Dataset and Detection Model</title>
+		<link>/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/</link>
+					<comments>/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 13 Feb 2019 17:30:11 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Digital Humanities]]></category>
+		<category><![CDATA[Instagram Marketing]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Street Art]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/</guid>
+
+					<description><![CDATA[What if you could pump all of the Instagram photos of Banksy’s artwork into a program that could pinpoint where the next one’s likely to be? Well, we aren’t there quite yet, but there’s still some really cool stuff you can accomplish using image analysis and machine learning to better understand street art. You can [&#8230;]
+<p><a href="/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">745</post-id>	</item>
+	</channel>
+</rss>

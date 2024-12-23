@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/orbital-2014/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:03:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Post 3 Mentoring Sessions</title>
+		<link>/2014/08/18/post-3-mentoring-sessions/</link>
+					<comments>/2014/08/18/post-3-mentoring-sessions/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2014 13:25:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[mentor]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/18/post-3-mentoring-sessions/</guid>
+
+					<description><![CDATA[I wrote about how I started mentoring a young man I met on a plane. The mentoring ended after the first session, because the communication between us stopped. I failed to follow up with him and keep him accountable. Last month, I had my computer out on the train ride home. I was work on [&#8230;]
+<p><a href="/2014/08/18/post-3-mentoring-sessions/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/18/post-3-mentoring-sessions/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">314</post-id>	</item>
+		<item>
+		<title>End of day reflection</title>
+		<link>/2014/08/07/end-of-day-reflection/</link>
+					<comments>/2014/08/07/end-of-day-reflection/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2014 03:05:53 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[analytics]]></category>
+		<category><![CDATA[game development]]></category>
+		<category><![CDATA[making games]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/07/end-of-day-reflection/</guid>
+
+					<description><![CDATA[I circulated my prototype on Reddit&#8217;s /r/graffiti today. I didnt get any upvotes, but I believe I got traffic from the site. I wasn&#8217;t able to get Google Analytics to register my new site, so I didnt get any hard numbers. Based on my posts in /r/graffiti, I am starting to believe the audience is [&#8230;]
+<p><a href="/2014/08/07/end-of-day-reflection/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/07/end-of-day-reflection/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">366</post-id>	</item>
+		<item>
+		<title>I wrote an API</title>
+		<link>/2014/08/06/i-wrote-an-api/</link>
+					<comments>/2014/08/06/i-wrote-an-api/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2014 16:08:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[game development]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/06/i-wrote-an-api/</guid>
+
+					<description><![CDATA[Just as Gary and Wayne talked about not building an API, I did it. The API returns a random graffiti image from a database I have: http://publicartfound.herokuapp.com/get_graffiti The API return a JSON object containing a URL to a graffiti image. It looks like this: { data: ""https://s3.amazonaws.com/lkbg-aws-box/10790544143_0b07aab385_o.jpg"" } Although this isnt keep score correctly, the [&#8230;]
+<p><a href="/2014/08/06/i-wrote-an-api/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/06/i-wrote-an-api/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">374</post-id>	</item>
+		<item>
+		<title>How should I populate my content?</title>
+		<link>/2014/07/31/how-should-i-populate-my-content/</link>
+					<comments>/2014/07/31/how-should-i-populate-my-content/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 31 Jul 2014 15:09:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[Product Development]]></category>
+		<category><![CDATA[product market fit]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/31/how-should-i-populate-my-content/</guid>
+
+					<description><![CDATA[Ive been working through publicartfound and struggling to pinpoint the way I want to display content. I feel like the problem Im trying to solve is not unique, but I can&#8217;t seem to find an example that I like. Im manually adding entries into the website, but this is not the scalable option. I dont [&#8230;]
+<p><a href="/2014/07/31/how-should-i-populate-my-content/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/31/how-should-i-populate-my-content/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">397</post-id>	</item>
+		<item>
+		<title>Update: publicartfound.com</title>
+		<link>/2014/07/29/update-publicartfoundcom/</link>
+					<comments>/2014/07/29/update-publicartfoundcom/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 29 Jul 2014 14:02:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[designreflection]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[workinprogress]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/29/update-publicartfoundcom/</guid>
+
+					<description><![CDATA[I decided to take my project to the same name as my twitter account. I think this is a good name for what I want to accomplish. I bought publicartfound.com to continue this. Im at 357 github commits and counting. I built out some major features today: The user &#8216;activity feed&#8217; is up. This is [&#8230;]
+<p><a href="/2014/07/29/update-publicartfoundcom/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/29/update-publicartfoundcom/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1315</post-id>	</item>
+		<item>
+		<title>Analyzing user behavior with Google Analytics</title>
+		<link>/2014/07/26/analyzing-user-behavior-with-google-analytics/</link>
+					<comments>/2014/07/26/analyzing-user-behavior-with-google-analytics/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sat, 26 Jul 2014 19:47:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[experiement]]></category>
+		<category><![CDATA[google analytics]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[prototyping]]></category>
+		<category><![CDATA[reddit]]></category>
+		<category><![CDATA[user behavior]]></category>
+		<category><![CDATA[user experience]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/26/analyzing-user-behavior-with-google-analytics/</guid>
+
+					<description><![CDATA[I ran a brief experiment on my single &#8216;piece&#8217; page this week. I used the news coverage on the Brooklyn Bridge White Flag incident as a catalyst topic. I created a quick location page for the Brooklyn Bridge, a &#8216;piece&#8217; page for the White Flag, and a &#8216;artist&#8217; page for the unknown group. I added [&#8230;]
+<p><a href="/2014/07/26/analyzing-user-behavior-with-google-analytics/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/26/analyzing-user-behavior-with-google-analytics/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">417</post-id>	</item>
+		<item>
+		<title>Making sense of email</title>
+		<link>/2014/07/24/making-sense-of-email/</link>
+					<comments>/2014/07/24/making-sense-of-email/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2014 13:01:54 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Email Marketing]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[segmenting audience]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/24/making-sense-of-email/</guid>
+
+					<description><![CDATA[I gathered 28 email addresses today. I primarily used reddits /r/nyc to promote my publicart.io account. Looking at the google analytics traffic, I think that was the most effective tool. I also used the @publicartfound account to tweet out. I think this may have gotten some good followers too. I decided to segment the users [&#8230;]
+<p><a href="/2014/07/24/making-sense-of-email/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/24/making-sense-of-email/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">425</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/23/how-to-use-iftttcom-to-build-a-passive-stream-of-2/</link>
+					<comments>/2014/07/23/how-to-use-iftttcom-to-build-a-passive-stream-of-2/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2014 11:26:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[ifttt]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[social media followers]]></category>
+		<category><![CDATA[social reach]]></category>
+		<category><![CDATA[twitter account]]></category>
+		<guid isPermaLink="false">/2014/07/23/how-to-use-iftttcom-to-build-a-passive-stream-of/</guid>
+
+					<description><![CDATA[How to use IFTTT.com to build a passive stream of twitter followers Made for DadiesDateBabies
+<p><a href="/2014/07/23/how-to-use-iftttcom-to-build-a-passive-stream-of-2/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/23/how-to-use-iftttcom-to-build-a-passive-stream-of-2/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1707</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/23/how-to-use-iftttcom-to-build-a-passive-stream-of/</link>
+					<comments>/2014/07/23/how-to-use-iftttcom-to-build-a-passive-stream-of/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2014 11:26:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[ifttt]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[social media followers]]></category>
+		<category><![CDATA[social reach]]></category>
+		<category><![CDATA[twitter account]]></category>
+		<guid isPermaLink="false">/2014/07/23/how-to-use-iftttcom-to-build-a-passive-stream-of/</guid>
+
+					<description><![CDATA[How to use IFTTT.com to build a passive stream of twitter followers Made for DadiesDateBabies
+<p><a href="/2014/07/23/how-to-use-iftttcom-to-build-a-passive-stream-of/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/23/how-to-use-iftttcom-to-build-a-passive-stream-of/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">438</post-id>	</item>
+		<item>
+		<title>Micro-experiments in shell entities</title>
+		<link>/2014/07/10/micro-experiments-in-shell-entities/</link>
+					<comments>/2014/07/10/micro-experiments-in-shell-entities/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 10 Jul 2014 11:12:37 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/10/micro-experiments-in-shell-entities/</guid>
+
+					<description><![CDATA[Gary mentioned on Monday that some companies experiment with user interactions by firing up experimental apps. They drive paid traffic to the apps to calculate the user interaction&#8217;s success. After the user interaction is well tested, they integrate it into their primary product. I set up a series of IFTTT recipes today. They watch Twitter [&#8230;]
+<p><a href="/2014/07/10/micro-experiments-in-shell-entities/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/10/micro-experiments-in-shell-entities/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">504</post-id>	</item>
+	</channel>
+</rss>

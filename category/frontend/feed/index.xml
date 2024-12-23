@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/category/frontend/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 14 Sep 2020 17:56:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Making the variable fonts Figma plugin (part 1 &#8211; what is variable fonts [simple])</title>
+		<link>/2020/09/08/making-the-variable-fonts-figma-plugin-part-1-what-is-variable-fonts-simple/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2020 17:06:40 +0000</pubDate>
+				<category><![CDATA[frontend]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[figma]]></category>
+		<category><![CDATA[typography]]></category>
+		<category><![CDATA[variable fonts]]></category>
+		<guid isPermaLink="false">/?p=1815</guid>
+
+					<description><![CDATA[Importantly, variable fonts are active and available across all major browsers.
+<p><a href="/2020/09/08/making-the-variable-fonts-figma-plugin-part-1-what-is-variable-fonts-simple/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1815</post-id>	</item>
+		<item>
+		<title>Foundation from Zurb</title>
+		<link>/2012/12/17/foundation-from-zurb/</link>
+					<comments>/2012/12/17/foundation-from-zurb/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Mon, 17 Dec 2012 05:00:00 +0000</pubDate>
+				<category><![CDATA[frontend]]></category>
+		<category><![CDATA[frontend framework]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2012/12/17/foundation-from-zurb/</guid>
+
+					<description><![CDATA[TLDR: The SASS Zurb Foundation install makes it easy to make a fully customized responsive website. Making a new website can be extremely easy or very time consuming. Tools available through Opensource projects, Creative Commons, and GNU licenses make it easy to layout a prototype in no time. Some of the obvious ones are Twitter [&#8230;]
+<p><a href="/2012/12/17/foundation-from-zurb/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2012/12/17/foundation-from-zurb/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">731</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/future-of-journalism/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:01:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>1 minute brief on Beacons</title>
+		<link>/2015/07/02/1-minute-brief-on-beacons-2/</link>
+					<comments>/2015/07/02/1-minute-brief-on-beacons-2/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 02 Jul 2015 16:24:28 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Beacons]]></category>
+		<category><![CDATA[Future Of Journalism]]></category>
+		<category><![CDATA[IoT]]></category>
+		<guid isPermaLink="false">/2015/07/02/1-minute-brief-on-beacons/</guid>
+
+					<description><![CDATA[Beacon technology was named after the iBeacon API that Apple released with iOS7. The API listens for a bluetooth UDID broadcast. At the time of iOS7, the API had to be associated to an existing app. Through the app’s background location monitoring, the UDID broadcast from a beacon could be detected and used as a [&#8230;]
+<p><a href="/2015/07/02/1-minute-brief-on-beacons-2/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2015/07/02/1-minute-brief-on-beacons-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1744</post-id>	</item>
+		<item>
+		<title>redesign newspaper stands</title>
+		<link>/2015/07/02/redesign-newspaper-stands/</link>
+					<comments>/2015/07/02/redesign-newspaper-stands/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 02 Jul 2015 14:05:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Future Of Journalism]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2015/07/02/redesign-newspaper-stands/</guid>
+
+					<description><![CDATA[Anyone here interested in physical computing? Im experimenting with a project to redesign newspaper stands. Im a software engineer and interested in playing with digital beacon technology to create news briefings in coffee shops/train stations. If you are passionate about this intersection, Id love to meet up and bounce ideas around. email: rememberlenny [at] gmail [&#8230;]
+<p><a href="/2015/07/02/redesign-newspaper-stands/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2015/07/02/redesign-newspaper-stands/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1340</post-id>	</item>
+		<item>
+		<title>future of media</title>
+		<link>/2014/11/30/future-of-media/</link>
+					<comments>/2014/11/30/future-of-media/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sun, 30 Nov 2014 00:37:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Future Of Journalism]]></category>
+		<category><![CDATA[future of media]]></category>
+		<category><![CDATA[internet media]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/11/30/future-of-media/</guid>
+
+					<description><![CDATA[I have been interested in “New Media” for the past few years. I spent my time in college researching the future of personal interactions on the internet. This lead me to researching the dynamic of internet communities such as Reddit. I was interested in the way which new ideas were shared, developed, and eventually turned [&#8230;]
+<p><a href="/2014/11/30/future-of-media/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/11/30/future-of-media/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">158</post-id>	</item>
+	</channel>
+</rss>

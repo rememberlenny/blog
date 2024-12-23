@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:00:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Weekly update Monday, February 4</title>
+		<link>/2019/02/20/weekly-update-monday-february-4/</link>
+					<comments>/2019/02/20/weekly-update-monday-february-4/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2019 04:46:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2019/02/20/weekly-update-monday-february-4/</guid>
+
+					<description><![CDATA[Weekly update February 4, 2019 I will be doing my best to send a bi-weekly update on the progress around my efforts to build out a street art genealogy online, and create a tool for preserving otherwise undocumented street art. So far in 2019, I have many exciting updates: * Open-sourced tools for detecting street art [&#8230;]
+<p><a href="/2019/02/20/weekly-update-monday-february-4/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2019/02/20/weekly-update-monday-february-4/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">744</post-id>	</item>
+		<item>
+		<title>How I Used Machine Learning to Inspire Physical Paintings</title>
+		<link>/2017/07/11/how-i-used-machine-learning-to-inspire-physical-paintings/</link>
+					<comments>/2017/07/11/how-i-used-machine-learning-to-inspire-physical-paintings/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 11 Jul 2017 19:47:31 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Web Development]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2017/07/11/how-i-used-machine-learning-to-inspire-physical-paintings/</guid>
+
+					<description><![CDATA[Since I was 15 years old, I have been painting graffiti under bridges and in abandoned buildings. I grew up in San Francisco when street art was booming, and inspired by the colors and aesthetic, I looked for ways to create art and taught myself to paint. As I got older, I discovered the graffiti [&#8230;]
+<p><a href="/2017/07/11/how-i-used-machine-learning-to-inspire-physical-paintings/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2017/07/11/how-i-used-machine-learning-to-inspire-physical-paintings/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">749</post-id>	</item>
+	</channel>
+</rss>

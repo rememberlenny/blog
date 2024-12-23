@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/author/lkbgift/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Tue, 05 Dec 2023 23:04:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Thoughts on my 33rd birthday</title>
+		<link>/2022/08/23/thoughts-on-my-33rd-birthday/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 23 Aug 2022 17:04:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1932</guid>
+
+					<description><![CDATA[A few personal updates. Today is my 33rd birthday, and in somewhat abrupt fashion, I am moving to San Francisco. It feels particularly significant for the reasons I’ll mention below.&#160; First, about three months ago, I began a conversation with a senior individual at a company,&#160;OpenAI, I had been following in the&#160;artificial general intelligence (AGI)&#160;space. [&#8230;]
+<p><a href="/2022/08/23/thoughts-on-my-33rd-birthday/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1932</post-id>	</item>
+		<item>
+		<title>Second order effects of companies as content creators</title>
+		<link>/2021/02/13/innovation-parallels-around-trucking-and-zoom/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sat, 13 Feb 2021 08:58:28 +0000</pubDate>
+				<category><![CDATA[video]]></category>
+		<category><![CDATA[bundling and unbundling]]></category>
+		<category><![CDATA[disruption theory]]></category>
+		<category><![CDATA[video editing]]></category>
+		<category><![CDATA[zoom]]></category>
+		<guid isPermaLink="false">/?p=1854</guid>
+
+					<description><![CDATA[TLDR: There&#8217;s going to be a shit ton of temporarily useful content; businesses need to have a quick way to make the worthwhile content stand out. (Thanks Joseph) There are two ideas I have been thinking about over the past few months that I want to document here. The first has to do with disruption, [&#8230;]
+<p><a href="/2021/02/13/innovation-parallels-around-trucking-and-zoom/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1854</post-id>	</item>
+		<item>
+		<title>Text rendering stuff most people might not know</title>
+		<link>/2020/10/10/text-rendering-stuff-most-people-might-not-know/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sat, 10 Oct 2020 05:01:38 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<category><![CDATA[fonts]]></category>
+		<category><![CDATA[typography]]></category>
+		<guid isPermaLink="false">/?p=1846</guid>
+
+					<description><![CDATA[I was stuck on a problem that I wanted to write out. The problem I was trying to solve could be simplified to the following: I have a box in the browser with fixed dimensions. I have a large number of words, which vary in size, which will fill the box. If a full box [&#8230;]
+<p><a href="/2020/10/10/text-rendering-stuff-most-people-might-not-know/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1846</post-id>	</item>
+		<item>
+		<title>Why is video editing so horrible today?</title>
+		<link>/2020/09/15/why-is-video-editing-so-horrible-today/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2020 16:01:40 +0000</pubDate>
+				<category><![CDATA[video]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[post production]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[video editing]]></category>
+		<guid isPermaLink="false">/?p=1828</guid>
+
+					<description><![CDATA[In the last three months, I have done more video post-production than I have done in the past 12 years. Surprisingly, in these years, nothing seems to have changed. Considering how much media is now machine analyzable content, such as audio and visual, I&#8217;m surprised there aren&#8217;t more patterns that make navigating and arranging video [&#8230;]
+<p><a href="/2020/09/15/why-is-video-editing-so-horrible-today/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1828</post-id>	</item>
+		<item>
+		<title>Making the variable fonts Figma plugin (part 1 &#8211; what is variable fonts [simple])</title>
+		<link>/2020/09/08/making-the-variable-fonts-figma-plugin-part-1-what-is-variable-fonts-simple/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2020 17:06:40 +0000</pubDate>
+				<category><![CDATA[frontend]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[figma]]></category>
+		<category><![CDATA[typography]]></category>
+		<category><![CDATA[variable fonts]]></category>
+		<guid isPermaLink="false">/?p=1815</guid>
+
+					<description><![CDATA[Importantly, variable fonts are active and available across all major browsers.
+<p><a href="/2020/09/08/making-the-variable-fonts-figma-plugin-part-1-what-is-variable-fonts-simple/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1815</post-id>	</item>
+		<item>
+		<title>React Figma Plugin &#8211; How to get data from the canvas to your app</title>
+		<link>/2020/09/02/react-figma-plugin-how-to-get-data-from-the-canvas-to-your-app/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2020 21:54:35 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<category><![CDATA[figma]]></category>
+		<guid isPermaLink="false">/?p=1806</guid>
+
+					<description><![CDATA[I had much too hard of a time groking the Figma Plugin&#8217;s documentation, and thought I would leave a note for any brave souls to follow. Figma has a great API and documentation around how to make a plugin on the desktop app. When writing a plugin, you have access to the entire Figma canvas [&#8230;]
+<p><a href="/2020/09/02/react-figma-plugin-how-to-get-data-from-the-canvas-to-your-app/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1806</post-id>	</item>
+		<item>
+		<title>Turning 31, and reflecting on the past 10 years</title>
+		<link>/2020/08/22/turning-31-and-reflecting-on-the-past-10-years/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sat, 22 Aug 2020 23:25:14 +0000</pubDate>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[year in review]]></category>
+		<category><![CDATA[10 year reflection]]></category>
+		<category><![CDATA[aging]]></category>
+		<category><![CDATA[Birthday]]></category>
+		<guid isPermaLink="false">/?p=1784</guid>
+
+					<description><![CDATA[Tomorrow is my birthday, and I turn 31 years old. I didn’t think as much about what turning 30 meant last year, so taking a pause to write down some thoughts about the last 10 years, and the next 10. Taking time to think about my happiness, goals for future, current life circumstances, and future [&#8230;]
+<p><a href="/2020/08/22/turning-31-and-reflecting-on-the-past-10-years/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1784</post-id>	</item>
+		<item>
+		<title>Which expensive events permanently go digital?</title>
+		<link>/2020/08/21/expensive-events-permanently-digital/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2020 16:32:07 +0000</pubDate>
+				<category><![CDATA[projects]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">/?p=1771</guid>
+
+					<description><![CDATA[One of the more interesting conversations I had recently was with a b2b sales director, who could clearly articulate the before and after changes from Covid. In short, companies account non-trivial budgets to send reps to in-person events, trade shows, and conferences, knowing there are unattributable affects for these costs. The side channel interactions between [&#8230;]
+<p><a href="/2020/08/21/expensive-events-permanently-digital/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1771</post-id>	</item>
+		<item>
+		<title>The Unreal Engine in film production</title>
+		<link>/2020/08/14/notes-on-technology-impact-on-post-production/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 14 Aug 2020 13:16:14 +0000</pubDate>
+				<category><![CDATA[video]]></category>
+		<category><![CDATA[film industry]]></category>
+		<category><![CDATA[unreal engine]]></category>
+		<category><![CDATA[visual effects]]></category>
+		<guid isPermaLink="false">/?p=1767</guid>
+
+					<description><![CDATA[The film industry is an opaque producer of quality entertainment, which I have over-consumed in the past four months. Given the nature of how software and the internet has affected everything else I touch, I was curious how the entertainment industry has changed in recent years. To learn more, I spoke with a few friends [&#8230;]
+<p><a href="/2020/08/14/notes-on-technology-impact-on-post-production/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1767</post-id>	</item>
+		<item>
+		<title>Three considerations for job searching</title>
+		<link>/2020/08/12/three-considerations-for-job-searching/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2020 00:53:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[employment]]></category>
+		<guid isPermaLink="false">/?p=1768</guid>
+
+					<description><![CDATA[Over the past 10 years, I have formed opinions on the pros and cons of working at companies and organizations of varying sizes. While there are plenty of guides to the broad qualities of startups or big corporations, I think there is value in capturing these in personal anecdotes. The following is meant to be [&#8230;]
+<p><a href="/2020/08/12/three-considerations-for-job-searching/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1768</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Thu, 29 Sep 2022 17:06:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Thoughts on my 33rd birthday</title>
+		<link>/2022/08/23/thoughts-on-my-33rd-birthday/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 23 Aug 2022 17:04:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1932</guid>
+
+					<description><![CDATA[A few personal updates. Today is my 33rd birthday, and in somewhat abrupt fashion, I am moving to San Francisco. It feels particularly significant for the reasons I’ll mention below.&#160; First, about three months ago, I began a conversation with a senior individual at a company,&#160;OpenAI, I had been following in the&#160;artificial general intelligence (AGI)&#160;space. [&#8230;]
+<p><a href="/2022/08/23/thoughts-on-my-33rd-birthday/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1932</post-id>	</item>
+		<item>
+		<title>Three considerations for job searching</title>
+		<link>/2020/08/12/three-considerations-for-job-searching/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2020 00:53:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[employment]]></category>
+		<guid isPermaLink="false">/?p=1768</guid>
+
+					<description><![CDATA[Over the past 10 years, I have formed opinions on the pros and cons of working at companies and organizations of varying sizes. While there are plenty of guides to the broad qualities of startups or big corporations, I think there is value in capturing these in personal anecdotes. The following is meant to be [&#8230;]
+<p><a href="/2020/08/12/three-considerations-for-job-searching/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1768</post-id>	</item>
+		<item>
+		<title>Senior meets junior lessons learned, and some thoughts about the future of remote work</title>
+		<link>/2019/12/31/senior-meets-junior-lessons-learned-and-some-thoughts-about-the-future-of-remote-work/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 31 Dec 2019 22:25:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Remote work]]></category>
+		<category><![CDATA[Senior meets junior]]></category>
+		<category><![CDATA[software]]></category>
+		<guid isPermaLink="false">/?p=1012</guid>
+
+					<description><![CDATA[High level&#160;summary Last month, I setup a brief survey on Typeform and submitted it to ProductHunt as a project called “Senior meets junior”. Senior meets junior was described as a project that would allow engineers to collaborate together over side projects. Junior engineers could collaborate on real projects to upskill, while senior engineers can improve [&#8230;]
+<p><a href="/2019/12/31/senior-meets-junior-lessons-learned-and-some-thoughts-about-the-future-of-remote-work/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1012</post-id>	</item>
+		<item>
+		<title>Goodbye 155</title>
+		<link>/2019/12/06/goodbye-155-2/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2019 17:14:28 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[reflection]]></category>
+		<guid isPermaLink="false">/?p=997</guid>
+
+					<description><![CDATA[I met Gary after being invited to co-work with him and Jed at a coffee shop in k-town, after lunch at a Korean restaurant.
+<p><a href="/2019/12/06/goodbye-155-2/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">997</post-id>	</item>
+		<item>
+		<title>How Public Art works</title>
+		<link>/2019/03/07/how-public-art-works/</link>
+					<comments>/2019/03/07/how-public-art-works/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 07 Mar 2019 15:40:38 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Rails]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[React Native]]></category>
+		<category><![CDATA[Street Art]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2019/03/07/how-public-art-works/</guid>
+
+					<description><![CDATA[Details on my React-Native iOS application backed by a Ruby on Rails backend and some Python Jupyter notebook scripts Public Art is an iOS application that helps you discover new nearby street art. I’ve been working on this project on my own, but it has a lot of technical moving parts. I will explain how all of [&#8230;]
+<p><a href="/2019/03/07/how-public-art-works/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2019/03/07/how-public-art-works/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">741</post-id>	</item>
+		<item>
+		<title>Short announcement: App went out.</title>
+		<link>/2019/03/05/short-announcement-app-went-out/</link>
+					<comments>/2019/03/05/short-announcement-app-went-out/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 05 Mar 2019 07:18:29 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2019/03/05/short-announcement-app-went-out/</guid>
+
+					<description><![CDATA[And I added 20,000 new photos in the last two weeks Quick update to keep with the bi-weekly rhythm. This one will be shorter than others. Last email I shared background details on the iOS application I launched. You can find the app on the Apple app store now here: https://itunes.apple.com/us/app/public-art/id936484924?mt=8 If you have an iPhone, [&#8230;]
+<p><a href="/2019/03/05/short-announcement-app-went-out/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2019/03/05/short-announcement-app-went-out/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">742</post-id>	</item>
+		<item>
+		<title>Weekly update February 19, 2019</title>
+		<link>/2019/02/20/weekly-update-february-19-2019/</link>
+					<comments>/2019/02/20/weekly-update-february-19-2019/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2019 04:49:16 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Public Art]]></category>
+		<category><![CDATA[Street Art]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2019/02/20/weekly-update-february-19-2019/</guid>
+
+					<description><![CDATA[Bi-weekly update for February 19th, 2019 Hey! I promised a bi-weekly update, so heres #2! I did a lot of new development this past two weeks. To kick it off, I started experimenting with social media ads, selling physical products, built and released 21 versions of an app, majorly upgraded my backend application, and finally got [&#8230;]
+<p><a href="/2019/02/20/weekly-update-february-19-2019/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2019/02/20/weekly-update-february-19-2019/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">743</post-id>	</item>
+		<item>
+		<title>Weekly update Monday, February 4</title>
+		<link>/2019/02/20/weekly-update-monday-february-4/</link>
+					<comments>/2019/02/20/weekly-update-monday-february-4/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2019 04:46:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2019/02/20/weekly-update-monday-february-4/</guid>
+
+					<description><![CDATA[Weekly update February 4, 2019 I will be doing my best to send a bi-weekly update on the progress around my efforts to build out a street art genealogy online, and create a tool for preserving otherwise undocumented street art. So far in 2019, I have many exciting updates: * Open-sourced tools for detecting street art [&#8230;]
+<p><a href="/2019/02/20/weekly-update-monday-february-4/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2019/02/20/weekly-update-monday-february-4/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">744</post-id>	</item>
+		<item>
+		<title>On Building an Instagram Street Art Dataset and Detection Model</title>
+		<link>/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/</link>
+					<comments>/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 13 Feb 2019 17:30:11 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Digital Humanities]]></category>
+		<category><![CDATA[Instagram Marketing]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Street Art]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/</guid>
+
+					<description><![CDATA[What if you could pump all of the Instagram photos of Banksy’s artwork into a program that could pinpoint where the next one’s likely to be? Well, we aren’t there quite yet, but there’s still some really cool stuff you can accomplish using image analysis and machine learning to better understand street art. You can [&#8230;]
+<p><a href="/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">745</post-id>	</item>
+		<item>
+		<title>Tracking street art with machine learning — updates</title>
+		<link>/2018/11/08/tracking-street-art-with-machine-learning%e2%80%8a-%e2%80%8aupdates/</link>
+					<comments>/2018/11/08/tracking-street-art-with-machine-learning%e2%80%8a-%e2%80%8aupdates/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 08 Nov 2018 14:36:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Art]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Street Art]]></category>
+		<category><![CDATA[Towards Data Science]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2018/11/08/tracking-street-art-with-machine-learning%e2%80%8a-%e2%80%8aupdates/</guid>
+
+					<description><![CDATA[Mural from Reyes, Revok and Steel from MSK (https://www.fatcap.com/live/revok-steel-and-reyes.html) Thank you for following the Public Art[⁰] project for building a genealogy around street art, using machine learning. This project is aiming to create a central place for documenting street art from around the world, and use modern image analysis techniques to build a historical reference [&#8230;]
+<p><a href="/2018/11/08/tracking-street-art-with-machine-learning%e2%80%8a-%e2%80%8aupdates/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2018/11/08/tracking-street-art-with-machine-learning%e2%80%8a-%e2%80%8aupdates/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">747</post-id>	</item>
+	</channel>
+</rss>

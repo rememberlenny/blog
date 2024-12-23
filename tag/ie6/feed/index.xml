@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/ie6/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:03:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Internet browsers with Chinese characteristics</title>
+		<link>/2013/03/20/internet-browsers-with-chinese-characteristics/</link>
+					<comments>/2013/03/20/internet-browsers-with-chinese-characteristics/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 20 Mar 2013 04:00:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[ie6]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2013/03/20/internet-browsers-with-chinese-characteristics/</guid>
+
+					<description><![CDATA[Remember the Windows XP system updates? Old computers without system updates are unable to upgrade from their original IE6 browser
+<p><a href="/2013/03/20/internet-browsers-with-chinese-characteristics/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2013/03/20/internet-browsers-with-chinese-characteristics/feed/</wfw:commentRss>
+			<slash:comments>25</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">714</post-id>	</item>
+	</channel>
+</rss>

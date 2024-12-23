@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/unreal-engine/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Sun, 11 Oct 2020 08:22:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>The Unreal Engine in film production</title>
+		<link>/2020/08/14/notes-on-technology-impact-on-post-production/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 14 Aug 2020 13:16:14 +0000</pubDate>
+				<category><![CDATA[video]]></category>
+		<category><![CDATA[film industry]]></category>
+		<category><![CDATA[unreal engine]]></category>
+		<category><![CDATA[visual effects]]></category>
+		<guid isPermaLink="false">/?p=1767</guid>
+
+					<description><![CDATA[The film industry is an opaque producer of quality entertainment, which I have over-consumed in the past four months. Given the nature of how software and the internet has affected everything else I touch, I was curious how the entertainment industry has changed in recent years. To learn more, I spoke with a few friends [&#8230;]
+<p><a href="/2020/08/14/notes-on-technology-impact-on-post-production/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1767</post-id>	</item>
+	</channel>
+</rss>

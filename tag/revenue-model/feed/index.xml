@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/revenue-model/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:03:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title></title>
+		<link>/2014/07/28/q-are-you-focusing-on-revenue-at-all-whats-your/</link>
+					<comments>/2014/07/28/q-are-you-focusing-on-revenue-at-all-whats-your/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2014 04:50:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[revenue model]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/28/q-are-you-focusing-on-revenue-at-all-whats-your/</guid>
+
+					<description><![CDATA[Q: Are you focusing on revenue at all? What’s your business model? A: Not until we become one of the ten biggest websites. Right now, we’re the 93rd biggest website. When we’re in the ten biggest websites, we’ll worry about revenue. Eventually we want Nike to pay $20 million to have its own verified account. [&#8230;]
+<p><a href="/2014/07/28/q-are-you-focusing-on-revenue-at-all-whats-your/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/28/q-are-you-focusing-on-revenue-at-all-whats-your/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1316</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/windowed-launch/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:03:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title></title>
+		<link>/2014/07/15/next-week-sales-will-open-up-for-the-first-ever/</link>
+					<comments>/2014/07/15/next-week-sales-will-open-up-for-the-first-ever/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2014 18:54:47 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[balance]]></category>
+		<category><![CDATA[product]]></category>
+		<category><![CDATA[windowed launch]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/15/next-week-sales-will-open-up-for-the-first-ever/</guid>
+
+					<description><![CDATA[Next week, sales will open up for the first-ever &#8220;Design for Hackers&#8221; video course. At the end of the week, I&#8217;ll stop selling the course (&#8230;) Just because the Internet is on 24/7, doesn&#8217;t mean we have to be. Sure, each sale is more money in the bank, but there are &#8220;costs&#8221; (monetary and cognitive) [&#8230;]
+<p><a href="/2014/07/15/next-week-sales-will-open-up-for-the-first-ever/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/15/next-week-sales-will-open-up-for-the-first-ever/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">483</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/react/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:00:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>How Public Art works</title>
+		<link>/2019/03/07/how-public-art-works/</link>
+					<comments>/2019/03/07/how-public-art-works/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 07 Mar 2019 15:40:38 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Rails]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[React Native]]></category>
+		<category><![CDATA[Street Art]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2019/03/07/how-public-art-works/</guid>
+
+					<description><![CDATA[Details on my React-Native iOS application backed by a Ruby on Rails backend and some Python Jupyter notebook scripts Public Art is an iOS application that helps you discover new nearby street art. I’ve been working on this project on my own, but it has a lot of technical moving parts. I will explain how all of [&#8230;]
+<p><a href="/2019/03/07/how-public-art-works/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2019/03/07/how-public-art-works/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">741</post-id>	</item>
+	</channel>
+</rss>

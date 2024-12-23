@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/first-1000-users/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:02:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Cookies for follows</title>
+		<link>/2014/08/04/cookies-for-follows/</link>
+					<comments>/2014/08/04/cookies-for-follows/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Mon, 04 Aug 2014 15:37:18 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[community development]]></category>
+		<category><![CDATA[first 1000 users]]></category>
+		<category><![CDATA[product market fit]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/04/cookies-for-follows/</guid>
+
+					<description><![CDATA[We are encouraged to build platforms rather than software. We are encouraged to do things that wont scale. The platform concept is great, but where do you start with that?
+<p><a href="/2014/08/04/cookies-for-follows/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/04/cookies-for-follows/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1317</post-id>	</item>
+	</channel>
+</rss>

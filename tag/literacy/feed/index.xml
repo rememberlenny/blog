@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/literacy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Fri, 06 Nov 2015 17:39:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>On print and digital news consumption</title>
+		<link>/2015/11/06/on-print-and-digital-news-consumption-2/</link>
+					<comments>/2015/11/06/on-print-and-digital-news-consumption-2/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2015 17:39:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Literacy]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Newspapers]]></category>
+		<guid isPermaLink="false">/2015/11/06/on-print-and-digital-news-consumption/</guid>
+
+					<description><![CDATA[Wednesday and Thursday, I decided to read a print newspaper on the way to work. This set off a Twitter discussion with Alex Remington. https://twitter.com/lamthuyvo/status/662678353040834561 Wednesday, I picked up a free WSJ before getting on the subway and spent my 40 minute commute paging through the domestic, international and business sections. Thursday, I bought a [&#8230;]
+<p><a href="/2015/11/06/on-print-and-digital-news-consumption-2/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2015/11/06/on-print-and-digital-news-consumption-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39</post-id>	</item>
+	</channel>
+</rss>

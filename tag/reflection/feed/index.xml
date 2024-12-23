@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/reflection/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:03:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Goodbye 155</title>
+		<link>/2019/12/06/goodbye-155-2/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2019 17:14:28 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[reflection]]></category>
+		<guid isPermaLink="false">/?p=997</guid>
+
+					<description><![CDATA[I met Gary after being invited to co-work with him and Jed at a coffee shop in k-town, after lunch at a Korean restaurant.
+<p><a href="/2019/12/06/goodbye-155-2/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">997</post-id>	</item>
+		<item>
+		<title>Intimacy by design</title>
+		<link>/2014/07/03/intimacy-by-design/</link>
+					<comments>/2014/07/03/intimacy-by-design/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 03 Jul 2014 14:02:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[essay]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[intimacy]]></category>
+		<category><![CDATA[reflection]]></category>
+		<category><![CDATA[thoughts]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/03/intimacy-by-design/</guid>
+
+					<description><![CDATA[I’ve been thinking about where to push my project. I’m undergoing a cyclical process of chasing the shiny object. I could be ‘iterating’ on an idea that started out rough. I knew I wasn’t going to be making a project for graffiti artists. My initial drive was to focus on a demographic that I felt [&#8230;]
+<p><a href="/2014/07/03/intimacy-by-design/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/03/intimacy-by-design/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">585</post-id>	</item>
+	</channel>
+</rss>

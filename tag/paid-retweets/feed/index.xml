@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/paid-retweets/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:03:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Tweet with 100+ retweets (ala fiverr)</title>
+		<link>/2014/06/29/tweet-with-100-retweets-ala-fiverr/</link>
+					<comments>/2014/06/29/tweet-with-100-retweets-ala-fiverr/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sun, 29 Jun 2014 14:01:45 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[paid retweets]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/06/29/tweet-with-100-retweets-ala-fiverr/</guid>
+
+					<description><![CDATA[I posted a tumblr post and tweeted the link on Twitter. The tumblr post was titled &#8220;This is the worst blog post in the world. No one would retweet this.&#8221; The post was a target of a Fiverr service I wanted to try out buying retweets. I was interested in a blog post by a [&#8230;]
+<p><a href="/2014/06/29/tweet-with-100-retweets-ala-fiverr/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/06/29/tweet-with-100-retweets-ala-fiverr/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">594</post-id>	</item>
+	</channel>
+</rss>

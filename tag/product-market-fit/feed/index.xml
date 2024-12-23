@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/product-market-fit/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:02:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Cookies for follows</title>
+		<link>/2014/08/04/cookies-for-follows/</link>
+					<comments>/2014/08/04/cookies-for-follows/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Mon, 04 Aug 2014 15:37:18 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[community development]]></category>
+		<category><![CDATA[first 1000 users]]></category>
+		<category><![CDATA[product market fit]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/04/cookies-for-follows/</guid>
+
+					<description><![CDATA[We are encouraged to build platforms rather than software. We are encouraged to do things that wont scale. The platform concept is great, but where do you start with that?
+<p><a href="/2014/08/04/cookies-for-follows/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/04/cookies-for-follows/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1317</post-id>	</item>
+		<item>
+		<title>How should I populate my content?</title>
+		<link>/2014/07/31/how-should-i-populate-my-content/</link>
+					<comments>/2014/07/31/how-should-i-populate-my-content/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 31 Jul 2014 15:09:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[Product Development]]></category>
+		<category><![CDATA[product market fit]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/31/how-should-i-populate-my-content/</guid>
+
+					<description><![CDATA[Ive been working through publicartfound and struggling to pinpoint the way I want to display content. I feel like the problem Im trying to solve is not unique, but I can&#8217;t seem to find an example that I like. Im manually adding entries into the website, but this is not the scalable option. I dont [&#8230;]
+<p><a href="/2014/07/31/how-should-i-populate-my-content/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/31/how-should-i-populate-my-content/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">397</post-id>	</item>
+	</channel>
+</rss>

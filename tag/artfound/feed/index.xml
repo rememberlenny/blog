@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/artfound/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:02:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>app-in-progress</title>
+		<link>/2014/11/02/app-in-progress/</link>
+					<comments>/2014/11/02/app-in-progress/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sun, 02 Nov 2014 02:00:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[artfound]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/11/02/app-in-progress/</guid>
+
+					<description><![CDATA[Things are coming along! Native table view complete (without design). Image asynchronously loading. Smoothly. Get user&#8217;s current location. More from last month. I experimented with a few low-fidelity responsive webviews (/post/99513313211/deciding-where-to-focus-attention) [^1]. I created a design based on FourSquare (/post/99694849006) [^2]. Built a Storyboard iOS prototype (/post/99750074246/graffitifound-prototype-via-iphone) [^3]. Spent a week in India, learning objective-c [&#8230;]
+<p><a href="/2014/11/02/app-in-progress/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/11/02/app-in-progress/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">181</post-id>	</item>
+	</channel>
+</rss>

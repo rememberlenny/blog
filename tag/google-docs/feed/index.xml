@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/google-docs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:02:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Deciding where to focus attention</title>
+		<link>/2014/10/08/deciding-where-to-focus-attention/</link>
+					<comments>/2014/10/08/deciding-where-to-focus-attention/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2014 21:25:38 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[google docs]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/10/08/deciding-where-to-focus-attention/</guid>
+
+					<description><![CDATA[I set up http://www.graffpass.com/find today. Its a way for people to find the graffiti that is closest to them, based on a pool of instagram photos I scraped over two weeks. This is an concept experiment for a iPhone app I want to finish next week. The application currently has a feature for users to [&#8230;]
+<p><a href="/2014/10/08/deciding-where-to-focus-attention/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/10/08/deciding-where-to-focus-attention/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">211</post-id>	</item>
+	</channel>
+</rss>

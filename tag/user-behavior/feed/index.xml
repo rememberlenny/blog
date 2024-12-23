@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/user-behavior/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:03:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Analyzing user behavior with Google Analytics</title>
+		<link>/2014/07/26/analyzing-user-behavior-with-google-analytics/</link>
+					<comments>/2014/07/26/analyzing-user-behavior-with-google-analytics/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sat, 26 Jul 2014 19:47:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[experiement]]></category>
+		<category><![CDATA[google analytics]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[prototyping]]></category>
+		<category><![CDATA[reddit]]></category>
+		<category><![CDATA[user behavior]]></category>
+		<category><![CDATA[user experience]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/26/analyzing-user-behavior-with-google-analytics/</guid>
+
+					<description><![CDATA[I ran a brief experiment on my single &#8216;piece&#8217; page this week. I used the news coverage on the Brooklyn Bridge White Flag incident as a catalyst topic. I created a quick location page for the Brooklyn Bridge, a &#8216;piece&#8217; page for the White Flag, and a &#8216;artist&#8217; page for the unknown group. I added [&#8230;]
+<p><a href="/2014/07/26/analyzing-user-behavior-with-google-analytics/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/26/analyzing-user-behavior-with-google-analytics/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">417</post-id>	</item>
+	</channel>
+</rss>

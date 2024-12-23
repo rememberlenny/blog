@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/future-technology/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:11:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>From webdev to computer vision and machine learning</title>
+		<link>/2017/10/13/from-webdev-to-computer-vision-and-machine-learning/</link>
+					<comments>/2017/10/13/from-webdev-to-computer-vision-and-machine-learning/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2017 16:13:09 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<category><![CDATA[Computer Vision]]></category>
+		<category><![CDATA[Future Technology]]></category>
+		<category><![CDATA[Geospatial]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Towards Data Science]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2017/10/13/from-webdev-to-computer-vision-and-machine-learning/</guid>
+
+					<description><![CDATA[For the past four years, I’ve had the notion that I was going to start a company. The underlying feeling was that I wanted to work on something that I could passionately take full responsibility for. Although this has been a constant desire, I have not taken the concrete steps to make this a reality. [&#8230;]
+<p><a href="/2017/10/13/from-webdev-to-computer-vision-and-machine-learning/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2017/10/13/from-webdev-to-computer-vision-and-machine-learning/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">751</post-id>	</item>
+	</channel>
+</rss>

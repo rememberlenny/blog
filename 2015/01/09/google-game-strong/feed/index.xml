@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Google Game Strong	</title>
+	<atom:link href="/2015/01/09/google-game-strong/feed/" rel="self" type="application/rss+xml" />
+	<link>/2015/01/09/google-game-strong/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Sun, 02 Jun 2024 12:19:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		By: binance		</title>
+		<link>/2015/01/09/google-game-strong/#comment-557</link>
+
+		<dc:creator><![CDATA[binance]]></dc:creator>
+		<pubDate>Sun, 02 Jun 2024 12:19:53 +0000</pubDate>
+		<guid isPermaLink="false">/2015/01/09/google-game-strong/#comment-557</guid>
+
+					<description><![CDATA[Can you be more specific about the content of your article? After reading it, I still have some doubts. Hope you can help me.]]></description>
+			<content:encoded><![CDATA[<p>Can you be more specific about the content of your article? After reading it, I still have some doubts. Hope you can help me.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: On Building an Instagram Street Art Dataset and Detection Model	</title>
+	<atom:link href="/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/feed/" rel="self" type="application/rss+xml" />
+	<link>/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Sun, 15 Sep 2024 02:19:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		By: зареструватися на бнанс		</title>
+		<link>/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/#comment-683</link>
+
+		<dc:creator><![CDATA[зареструватися на бнанс]]></dc:creator>
+		<pubDate>Sun, 15 Sep 2024 02:19:58 +0000</pubDate>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/#comment-683</guid>
+
+					<description><![CDATA[Thank you for your sharing. I am worried that I lack creative ideas. It is your article that makes me full of hope. Thank you. But, I have a question, can you help me?]]></description>
+			<content:encoded><![CDATA[<p>Thank you for your sharing. I am worried that I lack creative ideas. It is your article that makes me full of hope. Thank you. But, I have a question, can you help me?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

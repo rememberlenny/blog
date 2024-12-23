@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/traveling/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:02:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>In India for two weeks</title>
+		<link>/2014/10/16/in-india-for-two-weeks/</link>
+					<comments>/2014/10/16/in-india-for-two-weeks/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2014 12:06:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[nomad]]></category>
+		<category><![CDATA[traveling]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/10/16/in-india-for-two-weeks/</guid>
+
+					<description><![CDATA[I took two weeks off from work and came to India. Im spending my mornings for exploration and sightseeing, then allocating the rest of my day to programming. Its worked out pretty well today. Im in Mumbai until tomorrow. I did a lot of walking around in the Bandra and South Mumbai area. Im going [&#8230;]
+<p><a href="/2014/10/16/in-india-for-two-weeks/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/10/16/in-india-for-two-weeks/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">203</post-id>	</item>
+	</channel>
+</rss>

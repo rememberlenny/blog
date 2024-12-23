@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/10-year-reflection/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 24 Aug 2020 04:46:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Turning 31, and reflecting on the past 10 years</title>
+		<link>/2020/08/22/turning-31-and-reflecting-on-the-past-10-years/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sat, 22 Aug 2020 23:25:14 +0000</pubDate>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[year in review]]></category>
+		<category><![CDATA[10 year reflection]]></category>
+		<category><![CDATA[aging]]></category>
+		<category><![CDATA[Birthday]]></category>
+		<guid isPermaLink="false">/?p=1784</guid>
+
+					<description><![CDATA[Tomorrow is my birthday, and I turn 31 years old. I didn’t think as much about what turning 30 meant last year, so taking a pause to write down some thoughts about the last 10 years, and the next 10. Taking time to think about my happiness, goals for future, current life circumstances, and future [&#8230;]
+<p><a href="/2020/08/22/turning-31-and-reflecting-on-the-past-10-years/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1784</post-id>	</item>
+	</channel>
+</rss>

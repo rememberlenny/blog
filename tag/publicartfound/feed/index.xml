@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/publicartfound/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:03:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>app-in-progress</title>
+		<link>/2014/11/02/app-in-progress/</link>
+					<comments>/2014/11/02/app-in-progress/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sun, 02 Nov 2014 02:00:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[artfound]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/11/02/app-in-progress/</guid>
+
+					<description><![CDATA[Things are coming along! Native table view complete (without design). Image asynchronously loading. Smoothly. Get user&#8217;s current location. More from last month. I experimented with a few low-fidelity responsive webviews (/post/99513313211/deciding-where-to-focus-attention) [^1]. I created a design based on FourSquare (/post/99694849006) [^2]. Built a Storyboard iOS prototype (/post/99750074246/graffitifound-prototype-via-iphone) [^3]. Spent a week in India, learning objective-c [&#8230;]
+<p><a href="/2014/11/02/app-in-progress/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/11/02/app-in-progress/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">181</post-id>	</item>
+		<item>
+		<title>Created map example using JR</title>
+		<link>/2014/08/19/created-map-example-using-jr/</link>
+					<comments>/2014/08/19/created-map-example-using-jr/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2014 05:29:18 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[jrart]]></category>
+		<category><![CDATA[maps]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<category><![CDATA[stree]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/19/created-map-example-using-jr/</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>/2014/08/19/created-map-example-using-jr/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">312</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/08/12/i-retweeted-a-quote-about-robin-williams-dying-and-2/</link>
+					<comments>/2014/08/12/i-retweeted-a-quote-about-robin-williams-dying-and-2/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 12 Aug 2014 01:31:28 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<guid isPermaLink="false">/2014/08/12/i-retweeted-a-quote-about-robin-williams-dying-and/</guid>
+
+					<description><![CDATA[I retweeted a quote about Robin Williams dying and the @NYTFridge reached out to me about @publicartfound.
+<p><a href="/2014/08/12/i-retweeted-a-quote-about-robin-williams-dying-and-2/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/12/i-retweeted-a-quote-about-robin-williams-dying-and-2/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">340</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/08/12/i-retweeted-a-quote-about-robin-williams-dying-and/</link>
+					<comments>/2014/08/12/i-retweeted-a-quote-about-robin-williams-dying-and/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 12 Aug 2014 01:31:28 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<guid isPermaLink="false">/2014/08/12/i-retweeted-a-quote-about-robin-williams-dying-and/</guid>
+
+					<description><![CDATA[I retweeted a quote about Robin Williams dying and the @NYTFridge reached out to me about @publicartfound.
+<p><a href="/2014/08/12/i-retweeted-a-quote-about-robin-williams-dying-and/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/12/i-retweeted-a-quote-about-robin-williams-dying-and/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">352</post-id>	</item>
+		<item>
+		<title>End of day reflection</title>
+		<link>/2014/08/07/end-of-day-reflection/</link>
+					<comments>/2014/08/07/end-of-day-reflection/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2014 03:05:53 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[analytics]]></category>
+		<category><![CDATA[game development]]></category>
+		<category><![CDATA[making games]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/07/end-of-day-reflection/</guid>
+
+					<description><![CDATA[I circulated my prototype on Reddit&#8217;s /r/graffiti today. I didnt get any upvotes, but I believe I got traffic from the site. I wasn&#8217;t able to get Google Analytics to register my new site, so I didnt get any hard numbers. Based on my posts in /r/graffiti, I am starting to believe the audience is [&#8230;]
+<p><a href="/2014/08/07/end-of-day-reflection/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/07/end-of-day-reflection/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">366</post-id>	</item>
+		<item>
+		<title>I wrote an API</title>
+		<link>/2014/08/06/i-wrote-an-api/</link>
+					<comments>/2014/08/06/i-wrote-an-api/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2014 16:08:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[game development]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/06/i-wrote-an-api/</guid>
+
+					<description><![CDATA[Just as Gary and Wayne talked about not building an API, I did it. The API returns a random graffiti image from a database I have: http://publicartfound.herokuapp.com/get_graffiti The API return a JSON object containing a URL to a graffiti image. It looks like this: { data: ""https://s3.amazonaws.com/lkbg-aws-box/10790544143_0b07aab385_o.jpg"" } Although this isnt keep score correctly, the [&#8230;]
+<p><a href="/2014/08/06/i-wrote-an-api/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/06/i-wrote-an-api/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">374</post-id>	</item>
+		<item>
+		<title>Rule: Dont start coding at 12:30am</title>
+		<link>/2014/08/06/rule-dont-start-coding-at-1230am/</link>
+					<comments>/2014/08/06/rule-dont-start-coding-at-1230am/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2014 06:12:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[crowdsourcing]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[mindmeld games]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[streetart]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/06/rule-dont-start-coding-at-1230am/</guid>
+
+					<description><![CDATA[Incomplete prototype is live here: http://publicartfound.herokuapp.com/ Code is here: https://github.com/rememberlenny/publicartfound I talked with Nick today and decided to build out a graffiti game. This is a tool for encouraging people to build out the community&#8217;s content for the New Public Arts Foundation projects. Im creating a system to encourage people to help identify the artists [&#8230;]
+<p><a href="/2014/08/06/rule-dont-start-coding-at-1230am/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/06/rule-dont-start-coding-at-1230am/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">375</post-id>	</item>
+		<item>
+		<title>Update: publicartfound.com</title>
+		<link>/2014/07/29/update-publicartfoundcom/</link>
+					<comments>/2014/07/29/update-publicartfoundcom/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 29 Jul 2014 14:02:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[designreflection]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[workinprogress]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/29/update-publicartfoundcom/</guid>
+
+					<description><![CDATA[I decided to take my project to the same name as my twitter account. I think this is a good name for what I want to accomplish. I bought publicartfound.com to continue this. Im at 357 github commits and counting. I built out some major features today: The user &#8216;activity feed&#8217; is up. This is [&#8230;]
+<p><a href="/2014/07/29/update-publicartfoundcom/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/29/update-publicartfoundcom/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1315</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/24/419/</link>
+					<comments>/2014/07/24/419/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2014 20:04:57 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<guid isPermaLink="false">/2014/07/24/419/</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>/2014/07/24/419/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">419</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/24/407/</link>
+					<comments>/2014/07/24/407/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2014 20:04:57 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<guid isPermaLink="false">/2014/07/24/407/</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>/2014/07/24/407/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">407</post-id>	</item>
+	</channel>
+</rss>

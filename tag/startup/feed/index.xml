@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/startup/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:03:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>5 things I learned launching my first iOS app</title>
+		<link>/2014/12/05/5-things-i-learned-launching-my-first-ios-app/</link>
+					<comments>/2014/12/05/5-things-i-learned-launching-my-first-ios-app/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 05 Dec 2014 14:50:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Product Development]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Startup]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/12/05/5-things-i-learned-launching-my-first-ios-app/</guid>
+
+					<description><![CDATA[Public Art — Find street art nearby. Public Art iOS app. 1. Having control of the external services is important The primary function of my app is to check your current location against a database of geotagged images. This is a straightforward call that leans on a ruby gem called Geocoder. To translate the user’s current location, I grab [&#8230;]
+<p><a href="/2014/12/05/5-things-i-learned-launching-my-first-ios-app/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/12/05/5-things-i-learned-launching-my-first-ios-app/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">752</post-id>	</item>
+		<item>
+		<title>Update PAF</title>
+		<link>/2014/09/17/update-paf/</link>
+					<comments>/2014/09/17/update-paf/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2014 10:01:39 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[webdec]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/09/17/update-paf/</guid>
+
+					<description><![CDATA[I created a new home page for public art found. I&#8217;ve accumulated over 120,000 images in the last few days and want to start resurfacing them in meaningful ways. Thinking about the future, I have created the potential for having ads. I took ads off another website and plopped them on. I think they look [&#8230;]
+<p><a href="/2014/09/17/update-paf/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/09/17/update-paf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1328</post-id>	</item>
+		<item>
+		<title>Under 1 minute pitch</title>
+		<link>/2014/09/17/under-1-minute-pitch/</link>
+					<comments>/2014/09/17/under-1-minute-pitch/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2014 01:17:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[pitching]]></category>
+		<category><![CDATA[Startup]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/09/17/under-1-minute-pitch/</guid>
+
+					<description><![CDATA[There is a boom in the number of amateur street art and graffiti photographers. On Instagram alone, there are over 30 thousand street art photos shared everyday. PublicArtfound is the best place to give those image meaning. We are the only place a photographer goes to share their street art photos, identify artists, and document [&#8230;]
+<p><a href="/2014/09/17/under-1-minute-pitch/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/09/17/under-1-minute-pitch/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">230</post-id>	</item>
+		<item>
+		<title>Update: publicartfound.com</title>
+		<link>/2014/07/29/update-publicartfoundcom/</link>
+					<comments>/2014/07/29/update-publicartfoundcom/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 29 Jul 2014 14:02:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[designreflection]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[user experience]]></category>
+		<category><![CDATA[workinprogress]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/29/update-publicartfoundcom/</guid>
+
+					<description><![CDATA[I decided to take my project to the same name as my twitter account. I think this is a good name for what I want to accomplish. I bought publicartfound.com to continue this. Im at 357 github commits and counting. I built out some major features today: The user &#8216;activity feed&#8217; is up. This is [&#8230;]
+<p><a href="/2014/07/29/update-publicartfoundcom/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/29/update-publicartfoundcom/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1315</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/16/heading-home-8/</link>
+					<comments>/2014/07/16/heading-home-8/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2014 04:59:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[MadeWithPaper]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[sketching]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[TrainIdeation]]></category>
+		<guid isPermaLink="false">/2014/07/16/heading-home/</guid>
+
+					<description><![CDATA[heading home
+<p><a href="/2014/07/16/heading-home-8/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/16/heading-home-8/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">450</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/16/heading-home/</link>
+					<comments>/2014/07/16/heading-home/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2014 04:59:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[MadeWithPaper]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[sketching]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[TrainIdeation]]></category>
+		<guid isPermaLink="false">/2014/07/16/heading-home/</guid>
+
+					<description><![CDATA[heading home
+<p><a href="/2014/07/16/heading-home/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/16/heading-home/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">462</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/16/heading-home-2-2/</link>
+					<comments>/2014/07/16/heading-home-2-2/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2014 04:59:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[MadeWithPaper]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[sketching]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[TrainIdeation]]></category>
+		<guid isPermaLink="false">/2014/07/16/heading-home-2/</guid>
+
+					<description><![CDATA[heading home
+<p><a href="/2014/07/16/heading-home-2-2/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/16/heading-home-2-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">453</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/16/heading-home-2/</link>
+					<comments>/2014/07/16/heading-home-2/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2014 04:59:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[MadeWithPaper]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[sketching]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[TrainIdeation]]></category>
+		<guid isPermaLink="false">/2014/07/16/heading-home-2/</guid>
+
+					<description><![CDATA[heading home
+<p><a href="/2014/07/16/heading-home-2/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/16/heading-home-2/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">465</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/16/heading-home-3-2/</link>
+					<comments>/2014/07/16/heading-home-3-2/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2014 04:59:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[MadeWithPaper]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[sketching]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[TrainIdeation]]></category>
+		<guid isPermaLink="false">/2014/07/16/heading-home-3/</guid>
+
+					<description><![CDATA[heading home
+<p><a href="/2014/07/16/heading-home-3-2/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/16/heading-home-3-2/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">456</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/16/heading-home-3/</link>
+					<comments>/2014/07/16/heading-home-3/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2014 04:59:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[MadeWithPaper]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[sketching]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[TrainIdeation]]></category>
+		<guid isPermaLink="false">/2014/07/16/heading-home-3/</guid>
+
+					<description><![CDATA[heading home
+<p><a href="/2014/07/16/heading-home-3/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/16/heading-home-3/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">468</post-id>	</item>
+	</channel>
+</rss>

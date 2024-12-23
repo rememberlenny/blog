@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/employee-engagement/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:00:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Idea: Slack/Github activity monitoring</title>
+		<link>/2016/11/02/idea-slackgithub-activity-monitoring/</link>
+					<comments>/2016/11/02/idea-slackgithub-activity-monitoring/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 02 Nov 2016 19:40:33 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Distributed Teams]]></category>
+		<category><![CDATA[Employee Engagement]]></category>
+		<category><![CDATA[Work Culture]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2016/11/02/idea-slackgithub-activity-monitoring/</guid>
+
+					<description><![CDATA[Idea: Slack/Github activity monitoring Working for a distributed company has made me aware of an issue: employees can “disappear” too easily and no one notices. When employees have issues, there is no predetermined face-time to nip it in the bud. HR visits, employee gatherings, and good ol’ one-on-ones are easier to avoid. Distributed teams naturally [&#8230;]
+<p><a href="/2016/11/02/idea-slackgithub-activity-monitoring/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2016/11/02/idea-slackgithub-activity-monitoring/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40</post-id>	</item>
+	</channel>
+</rss>

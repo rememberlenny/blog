@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/longform/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:00:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Long-form in a information rich ad ecosystem</title>
+		<link>/2015/06/09/long-form-in-a-information-rich-ad-ecosystem/</link>
+					<comments>/2015/06/09/long-form-in-a-information-rich-ad-ecosystem/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2015 22:11:55 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Advertising]]></category>
+		<category><![CDATA[Longform]]></category>
+		<category><![CDATA[Publishing]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2015/06/09/long-form-in-a-information-rich-ad-ecosystem/</guid>
+
+					<description><![CDATA[I’ve been thinking a lot about the publishing of high-quality long-form content online. Long form content doesn’t perform well in the current advertisement ecosystem. Advertisers reward number of ad units served. Viewing more than 50% of an ad unit for at least 1 second defines a valid ad impression. This low bar for content producers [&#8230;]
+<p><a href="/2015/06/09/long-form-in-a-information-rich-ad-ecosystem/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2015/06/09/long-form-in-a-information-rich-ad-ecosystem/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">65</post-id>	</item>
+		<item>
+		<title>Long-form in a information rich ad ecosystem</title>
+		<link>/2015/06/09/long-form-in-a-information-rich-ad-ecosystem-2/</link>
+					<comments>/2015/06/09/long-form-in-a-information-rich-ad-ecosystem-2/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2015 22:02:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Advertising]]></category>
+		<category><![CDATA[Longform]]></category>
+		<category><![CDATA[Publishing]]></category>
+		<guid isPermaLink="false">/2015/06/09/long-form-in-a-information-rich-ad-ecosystem/</guid>
+
+					<description><![CDATA[I’ve been thinking a lot about the publishing of high-quality long-form content online. Long form content doesn’t perform well in the current advertisement ecosystem. Advertisers reward number of ad units served. Viewing more than 50% of an ad unit for at least 1 second defines a valid ad impression. This low bar for content producers [&#8230;]
+<p><a href="/2015/06/09/long-form-in-a-information-rich-ad-ecosystem-2/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2015/06/09/long-form-in-a-information-rich-ad-ecosystem-2/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1745</post-id>	</item>
+	</channel>
+</rss>

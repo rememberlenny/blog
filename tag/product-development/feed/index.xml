@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/product-development/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:02:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>5 things I learned launching my first iOS app</title>
+		<link>/2014/12/05/5-things-i-learned-launching-my-first-ios-app/</link>
+					<comments>/2014/12/05/5-things-i-learned-launching-my-first-ios-app/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 05 Dec 2014 14:50:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Product Development]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Startup]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/12/05/5-things-i-learned-launching-my-first-ios-app/</guid>
+
+					<description><![CDATA[Public Art — Find street art nearby. Public Art iOS app. 1. Having control of the external services is important The primary function of my app is to check your current location against a database of geotagged images. This is a straightforward call that leans on a ruby gem called Geocoder. To translate the user’s current location, I grab [&#8230;]
+<p><a href="/2014/12/05/5-things-i-learned-launching-my-first-ios-app/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/12/05/5-things-i-learned-launching-my-first-ios-app/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">752</post-id>	</item>
+		<item>
+		<title>How should I populate my content?</title>
+		<link>/2014/07/31/how-should-i-populate-my-content/</link>
+					<comments>/2014/07/31/how-should-i-populate-my-content/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 31 Jul 2014 15:09:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[Product Development]]></category>
+		<category><![CDATA[product market fit]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/31/how-should-i-populate-my-content/</guid>
+
+					<description><![CDATA[Ive been working through publicartfound and struggling to pinpoint the way I want to display content. I feel like the problem Im trying to solve is not unique, but I can&#8217;t seem to find an example that I like. Im manually adding entries into the website, but this is not the scalable option. I dont [&#8230;]
+<p><a href="/2014/07/31/how-should-i-populate-my-content/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/31/how-should-i-populate-my-content/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">397</post-id>	</item>
+	</channel>
+</rss>

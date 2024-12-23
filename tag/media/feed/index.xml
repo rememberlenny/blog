@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/media/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:00:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>On ad supported websites from a developer’s perspective</title>
+		<link>/2015/11/10/on-ad-supported-websites-from-a-developers-perspective/</link>
+					<comments>/2015/11/10/on-ad-supported-websites-from-a-developers-perspective/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2015 19:40:39 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Newspapers]]></category>
+		<category><![CDATA[Web Development]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2015/11/10/on-ad-supported-websites-from-a-developers-perspective/</guid>
+
+					<description><![CDATA[Developers and editorial teams can work together to create a great product. I’ve worked at media companies for over three years. Watching the recent discussions about ad-blockers, advertiser’s impinging on reader’s rights, and the growth of content distribution networks (read: Facebook, Apple News, RSS readers), I want to share how it feels to be a web [&#8230;]
+<p><a href="/2015/11/10/on-ad-supported-websites-from-a-developers-perspective/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2015/11/10/on-ad-supported-websites-from-a-developers-perspective/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">755</post-id>	</item>
+		<item>
+		<title>On print and digital news consumption</title>
+		<link>/2015/11/06/on-print-and-digital-news-consumption-2/</link>
+					<comments>/2015/11/06/on-print-and-digital-news-consumption-2/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2015 17:39:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Literacy]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Newspapers]]></category>
+		<guid isPermaLink="false">/2015/11/06/on-print-and-digital-news-consumption/</guid>
+
+					<description><![CDATA[Wednesday and Thursday, I decided to read a print newspaper on the way to work. This set off a Twitter discussion with Alex Remington. https://twitter.com/lamthuyvo/status/662678353040834561 Wednesday, I picked up a free WSJ before getting on the subway and spent my 40 minute commute paging through the domestic, international and business sections. Thursday, I bought a [&#8230;]
+<p><a href="/2015/11/06/on-print-and-digital-news-consumption-2/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2015/11/06/on-print-and-digital-news-consumption-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39</post-id>	</item>
+		<item>
+		<title>Why publishers need a way to remind to read</title>
+		<link>/2015/10/27/why-publishers-need-a-way-to-remind-to-read-2/</link>
+					<comments>/2015/10/27/why-publishers-need-a-way-to-remind-to-read-2/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2015 21:06:10 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Publishing]]></category>
+		<guid isPermaLink="false">/2015/10/27/why-publishers-need-a-way-to-remind-to-read/</guid>
+
+					<description><![CDATA[Publishers have lost their grip on audiences. The content they produce is circulated on platforms they don’t control. The ads they sell are priced by market places they don’t control. The business models and rules by which they play are no longer in their favor. I believe there are two “modes” of content consumption that [&#8230;]
+<p><a href="/2015/10/27/why-publishers-need-a-way-to-remind-to-read-2/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2015/10/27/why-publishers-need-a-way-to-remind-to-read-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1746</post-id>	</item>
+	</channel>
+</rss>

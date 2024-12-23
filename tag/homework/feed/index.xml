@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/homework/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:03:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Cold emailing strangers for meetings</title>
+		<link>/2014/07/06/cold-emailing-strangers-for-meetings/</link>
+					<comments>/2014/07/06/cold-emailing-strangers-for-meetings/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 21:12:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[homework]]></category>
+		<category><![CDATA[orbitalnyc]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/06/cold-emailing-strangers-for-meetings/</guid>
+
+					<description><![CDATA[Im familiar with reaching out to strangers and scheduling a chunk of their time. This is definitely a strength of mine. Last week, I met with a few people through cold-emails. Through the suggestion of others, I met two people: a co-founder of a mapping based webapp and the creator of a graffiti orriented Google [&#8230;]
+<p><a href="/2014/07/06/cold-emailing-strangers-for-meetings/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/06/cold-emailing-strangers-for-meetings/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1304</post-id>	</item>
+	</channel>
+</rss>

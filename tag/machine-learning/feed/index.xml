@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/machine-learning/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:11:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>How Public Art works</title>
+		<link>/2019/03/07/how-public-art-works/</link>
+					<comments>/2019/03/07/how-public-art-works/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 07 Mar 2019 15:40:38 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Rails]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[React Native]]></category>
+		<category><![CDATA[Street Art]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2019/03/07/how-public-art-works/</guid>
+
+					<description><![CDATA[Details on my React-Native iOS application backed by a Ruby on Rails backend and some Python Jupyter notebook scripts Public Art is an iOS application that helps you discover new nearby street art. I’ve been working on this project on my own, but it has a lot of technical moving parts. I will explain how all of [&#8230;]
+<p><a href="/2019/03/07/how-public-art-works/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2019/03/07/how-public-art-works/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">741</post-id>	</item>
+		<item>
+		<title>Weekly update February 19, 2019</title>
+		<link>/2019/02/20/weekly-update-february-19-2019/</link>
+					<comments>/2019/02/20/weekly-update-february-19-2019/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2019 04:49:16 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Public Art]]></category>
+		<category><![CDATA[Street Art]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2019/02/20/weekly-update-february-19-2019/</guid>
+
+					<description><![CDATA[Bi-weekly update for February 19th, 2019 Hey! I promised a bi-weekly update, so heres #2! I did a lot of new development this past two weeks. To kick it off, I started experimenting with social media ads, selling physical products, built and released 21 versions of an app, majorly upgraded my backend application, and finally got [&#8230;]
+<p><a href="/2019/02/20/weekly-update-february-19-2019/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2019/02/20/weekly-update-february-19-2019/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">743</post-id>	</item>
+		<item>
+		<title>Weekly update Monday, February 4</title>
+		<link>/2019/02/20/weekly-update-monday-february-4/</link>
+					<comments>/2019/02/20/weekly-update-monday-february-4/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2019 04:46:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2019/02/20/weekly-update-monday-february-4/</guid>
+
+					<description><![CDATA[Weekly update February 4, 2019 I will be doing my best to send a bi-weekly update on the progress around my efforts to build out a street art genealogy online, and create a tool for preserving otherwise undocumented street art. So far in 2019, I have many exciting updates: * Open-sourced tools for detecting street art [&#8230;]
+<p><a href="/2019/02/20/weekly-update-monday-february-4/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2019/02/20/weekly-update-monday-february-4/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">744</post-id>	</item>
+		<item>
+		<title>On Building an Instagram Street Art Dataset and Detection Model</title>
+		<link>/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/</link>
+					<comments>/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 13 Feb 2019 17:30:11 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Digital Humanities]]></category>
+		<category><![CDATA[Instagram Marketing]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Street Art]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/</guid>
+
+					<description><![CDATA[What if you could pump all of the Instagram photos of Banksy’s artwork into a program that could pinpoint where the next one’s likely to be? Well, we aren’t there quite yet, but there’s still some really cool stuff you can accomplish using image analysis and machine learning to better understand street art. You can [&#8230;]
+<p><a href="/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2019/02/13/on-building-an-instagram-street-art-dataset-and-detection-model/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">745</post-id>	</item>
+		<item>
+		<title>Tracking street art with machine learning — updates</title>
+		<link>/2018/11/08/tracking-street-art-with-machine-learning%e2%80%8a-%e2%80%8aupdates/</link>
+					<comments>/2018/11/08/tracking-street-art-with-machine-learning%e2%80%8a-%e2%80%8aupdates/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 08 Nov 2018 14:36:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Art]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Street Art]]></category>
+		<category><![CDATA[Towards Data Science]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2018/11/08/tracking-street-art-with-machine-learning%e2%80%8a-%e2%80%8aupdates/</guid>
+
+					<description><![CDATA[Mural from Reyes, Revok and Steel from MSK (https://www.fatcap.com/live/revok-steel-and-reyes.html) Thank you for following the Public Art[⁰] project for building a genealogy around street art, using machine learning. This project is aiming to create a central place for documenting street art from around the world, and use modern image analysis techniques to build a historical reference [&#8230;]
+<p><a href="/2018/11/08/tracking-street-art-with-machine-learning%e2%80%8a-%e2%80%8aupdates/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2018/11/08/tracking-street-art-with-machine-learning%e2%80%8a-%e2%80%8aupdates/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">747</post-id>	</item>
+		<item>
+		<title>On the post-centralization of social media</title>
+		<link>/2018/10/24/on-the-post-centralization-of-social-media/</link>
+					<comments>/2018/10/24/on-the-post-centralization-of-social-media/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 24 Oct 2018 19:23:06 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Developer]]></category>
+		<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2018/10/24/on-the-post-centralization-of-social-media/</guid>
+
+					<description><![CDATA[Below are some running thoughts on the centralization of social media. I have been reactivating many of my public art crawlers for publicart.io. In the process, I am only now realizing how drastic some of the post-Cambridge Analytica API changes from Facebook and Instagram are for the internet. While the points below are easily arguable [&#8230;]
+<p><a href="/2018/10/24/on-the-post-centralization-of-social-media/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2018/10/24/on-the-post-centralization-of-social-media/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">748</post-id>	</item>
+		<item>
+		<title>How I built a REST endpoint based Computer Vision task using Flask</title>
+		<link>/2017/12/31/how-i-built-a-rest-endpoint-based-computer-vision-task-using-flask/</link>
+					<comments>/2017/12/31/how-i-built-a-rest-endpoint-based-computer-vision-task-using-flask/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2017 01:33:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Computer Vision]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2017/12/31/how-i-built-a-rest-endpoint-based-computer-vision-task-using-flask/</guid>
+
+					<description><![CDATA[This is a follow up on my process of developing familiarity with computer vision and machine learning techniques. As a web developer (read as “rails developer”), I found this growing sphere exciting, but don’t work with these technologies on a day-to-day. This is month three of a two year journey to explore this field. If [&#8230;]
+<p><a href="/2017/12/31/how-i-built-a-rest-endpoint-based-computer-vision-task-using-flask/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2017/12/31/how-i-built-a-rest-endpoint-based-computer-vision-task-using-flask/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">754</post-id>	</item>
+		<item>
+		<title>Two months exploring deep learning and computer vision</title>
+		<link>/2017/12/28/two-months-exploring-deep-learning-and-computer/</link>
+					<comments>/2017/12/28/two-months-exploring-deep-learning-and-computer/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 28 Dec 2017 19:33:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Computer Vision]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Spatial Analysis]]></category>
+		<category><![CDATA[Towards Data Science]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2017/12/28/two-months-exploring-deep-learning-and-computer/</guid>
+
+					<description><![CDATA[Repost from Medium I decided to develop familiarity with computer vision and machine learning techniques. As a web developer, I found this growing sphere exciting, but did not have any contextual experience working with these technologies. I am embarking on a two year journey to explore this field. If you haven’t read it already, you [&#8230;]
+<p><a href="/2017/12/28/two-months-exploring-deep-learning-and-computer/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2017/12/28/two-months-exploring-deep-learning-and-computer/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">33</post-id>	</item>
+		<item>
+		<title>Two months exploring deep learning and computer vision</title>
+		<link>/2017/12/20/two-months-exploring-deep-learning-and-computer-vision/</link>
+					<comments>/2017/12/20/two-months-exploring-deep-learning-and-computer-vision/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 20 Dec 2017 21:31:02 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Computer Vision]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Spatial Analysis]]></category>
+		<category><![CDATA[Towards Data Science]]></category>
+		<guid isPermaLink="false">/2017/12/20/two-months-exploring-deep-learning-and-computer-vision/</guid>
+
+					<description><![CDATA[I’ve been reading/note taking is using an iPad Pro and LiquidText I decided to develop familiarity with computer vision and machine learning techniques. As a web developer, I found this growing sphere exciting, but did not have any contextual experience working with these technologies. I am embarking on a two year journey to explore this [&#8230;]
+<p><a href="/2017/12/20/two-months-exploring-deep-learning-and-computer-vision/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2017/12/20/two-months-exploring-deep-learning-and-computer-vision/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1748</post-id>	</item>
+		<item>
+		<title>From webdev to computer vision and machine learning</title>
+		<link>/2017/10/13/from-webdev-to-computer-vision-and-machine-learning/</link>
+					<comments>/2017/10/13/from-webdev-to-computer-vision-and-machine-learning/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2017 16:13:09 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<category><![CDATA[Computer Vision]]></category>
+		<category><![CDATA[Future Technology]]></category>
+		<category><![CDATA[Geospatial]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Towards Data Science]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2017/10/13/from-webdev-to-computer-vision-and-machine-learning/</guid>
+
+					<description><![CDATA[For the past four years, I’ve had the notion that I was going to start a company. The underlying feeling was that I wanted to work on something that I could passionately take full responsibility for. Although this has been a constant desire, I have not taken the concrete steps to make this a reality. [&#8230;]
+<p><a href="/2017/10/13/from-webdev-to-computer-vision-and-machine-learning/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2017/10/13/from-webdev-to-computer-vision-and-machine-learning/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">751</post-id>	</item>
+	</channel>
+</rss>

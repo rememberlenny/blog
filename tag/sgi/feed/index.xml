@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/sgi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:02:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>supporting a buddhist study conference</title>
+		<link>/2014/08/11/supporting-a-buddhist-study-conference/</link>
+					<comments>/2014/08/11/supporting-a-buddhist-study-conference/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2014 23:00:27 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[buddhism]]></category>
+		<category><![CDATA[SGI]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/11/supporting-a-buddhist-study-conference/</guid>
+
+					<description><![CDATA[I spent the weekend as the lead in a event logistics team. I helped put together a conference at the Soka Gakkai International&#8217;s Florida Nature Culture Center, a retreat for buddhists. This particular conference was targeted toward the student division and focused primarily on the abolishment of nuclear weapons. I regularly support organizing SGI gatherings. [&#8230;]
+<p><a href="/2014/08/11/supporting-a-buddhist-study-conference/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/11/supporting-a-buddhist-study-conference/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">355</post-id>	</item>
+	</channel>
+</rss>

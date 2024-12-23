@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/ror/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:02:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Next phase of Public Artfound is in action.</title>
+		<link>/2014/09/10/next-phase-of-public-artfound-is-in-action/</link>
+					<comments>/2014/09/10/next-phase-of-public-artfound-is-in-action/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2014 22:01:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[paf]]></category>
+		<category><![CDATA[ror]]></category>
+		<category><![CDATA[rubyonrails]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/09/10/next-phase-of-public-artfound-is-in-action/</guid>
+
+					<description><![CDATA[Up until now, I struggled with the &#8220;empty party&#8221; syndrome. I was building a community for content sharing and storing, but didn&#8217;t have any content. As a result, I was trying to attract an audience without any reason for them to take Public Artfound. The value created from the twitter bot I created made me [&#8230;]
+<p><a href="/2014/09/10/next-phase-of-public-artfound-is-in-action/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/09/10/next-phase-of-public-artfound-is-in-action/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">253</post-id>	</item>
+	</channel>
+</rss>

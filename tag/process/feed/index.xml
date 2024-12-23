@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/process/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:02:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Graffpass: Your graffiti compass</title>
+		<link>/2014/10/06/graffpass-your-graffiti-compass/</link>
+					<comments>/2014/10/06/graffpass-your-graffiti-compass/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2014 22:02:12 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[graffpass]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[paf]]></category>
+		<category><![CDATA[process]]></category>
+		<category><![CDATA[streetart]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/10/06/graffpass-your-graffiti-compass/</guid>
+
+					<description><![CDATA[After pulling streetart and graffiti tagged pictures on Instagram, I quickly realized how unmanageable the pictures were becoming. I was gathering approximately 20,000 pictures a day and didn&#8217;t have an effective way of browsing them. There were too many pictures for the traditional &#8216;grid&#8217; layout design. Since they were pictures, there weren&#8217;t too many other [&#8230;]
+<p><a href="/2014/10/06/graffpass-your-graffiti-compass/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/10/06/graffpass-your-graffiti-compass/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1331</post-id>	</item>
+	</channel>
+</rss>

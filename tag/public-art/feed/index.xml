@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/public-art/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:00:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Weekly update February 19, 2019</title>
+		<link>/2019/02/20/weekly-update-february-19-2019/</link>
+					<comments>/2019/02/20/weekly-update-february-19-2019/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2019 04:49:16 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Public Art]]></category>
+		<category><![CDATA[Street Art]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2019/02/20/weekly-update-february-19-2019/</guid>
+
+					<description><![CDATA[Bi-weekly update for February 19th, 2019 Hey! I promised a bi-weekly update, so heres #2! I did a lot of new development this past two weeks. To kick it off, I started experimenting with social media ads, selling physical products, built and released 21 versions of an app, majorly upgraded my backend application, and finally got [&#8230;]
+<p><a href="/2019/02/20/weekly-update-february-19-2019/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2019/02/20/weekly-update-february-19-2019/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">743</post-id>	</item>
+	</channel>
+</rss>

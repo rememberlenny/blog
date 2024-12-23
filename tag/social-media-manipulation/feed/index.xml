@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/social-media-manipulation/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:02:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>This is why I hack Reddit posts</title>
+		<link>/2014/08/02/this-is-why-i-hack-reddit-posts/</link>
+					<comments>/2014/08/02/this-is-why-i-hack-reddit-posts/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sat, 02 Aug 2014 21:37:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[hacking reddit]]></category>
+		<category><![CDATA[social media manipulation]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/02/this-is-why-i-hack-reddit-posts/</guid>
+
+					<description><![CDATA[Vice just posted this: Reddit&#8217;s Favorite Scientist Just Got Banned for Cheating the Site (link: http://motherboard.vice.com/read/reddits-favorite-scientist-just-got-banned-for-cheating-the-site) A hacker news commenter explained why this is important. Visibility on Reddit is essentially predicated on early votes. Get a few upvotes and even mediocre comments will often remain at the top due to momentum. Less than -4 and [&#8230;]
+<p><a href="/2014/08/02/this-is-why-i-hack-reddit-posts/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/02/this-is-why-i-hack-reddit-posts/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">381</post-id>	</item>
+	</channel>
+</rss>

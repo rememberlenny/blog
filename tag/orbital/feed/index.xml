@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/orbital/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:02:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Goodbye 155</title>
+		<link>/2019/12/06/goodbye-155-2/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2019 17:14:28 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[reflection]]></category>
+		<guid isPermaLink="false">/?p=997</guid>
+
+					<description><![CDATA[I met Gary after being invited to co-work with him and Jed at a coffee shop in k-town, after lunch at a Korean restaurant.
+<p><a href="/2019/12/06/goodbye-155-2/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">997</post-id>	</item>
+		<item>
+		<title>api to graffiti data</title>
+		<link>/2014/10/09/api-to-graffiti-data/</link>
+					<comments>/2014/10/09/api-to-graffiti-data/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 09 Oct 2014 22:01:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/10/09/api-to-graffiti-data/</guid>
+
+					<description><![CDATA[I made an effective low fidelity API to the graffiti data. You can now query with a location and get back results in chunks of 25. You can page through the results via the page attribute. I&#8217;m conscious that there is currently no key/secret pass system. I have what I need for the application feed, [&#8230;]
+<p><a href="/2014/10/09/api-to-graffiti-data/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/10/09/api-to-graffiti-data/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">210</post-id>	</item>
+		<item>
+		<title>Deciding where to focus attention</title>
+		<link>/2014/10/08/deciding-where-to-focus-attention/</link>
+					<comments>/2014/10/08/deciding-where-to-focus-attention/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2014 21:25:38 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[google docs]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/10/08/deciding-where-to-focus-attention/</guid>
+
+					<description><![CDATA[I set up http://www.graffpass.com/find today. Its a way for people to find the graffiti that is closest to them, based on a pool of instagram photos I scraped over two weeks. This is an concept experiment for a iPhone app I want to finish next week. The application currently has a feature for users to [&#8230;]
+<p><a href="/2014/10/08/deciding-where-to-focus-attention/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/10/08/deciding-where-to-focus-attention/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">211</post-id>	</item>
+		<item>
+		<title>Graffpass: Your graffiti compass</title>
+		<link>/2014/10/06/graffpass-your-graffiti-compass/</link>
+					<comments>/2014/10/06/graffpass-your-graffiti-compass/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2014 22:02:12 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[graffpass]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[paf]]></category>
+		<category><![CDATA[process]]></category>
+		<category><![CDATA[streetart]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/10/06/graffpass-your-graffiti-compass/</guid>
+
+					<description><![CDATA[After pulling streetart and graffiti tagged pictures on Instagram, I quickly realized how unmanageable the pictures were becoming. I was gathering approximately 20,000 pictures a day and didn&#8217;t have an effective way of browsing them. There were too many pictures for the traditional &#8216;grid&#8217; layout design. Since they were pictures, there weren&#8217;t too many other [&#8230;]
+<p><a href="/2014/10/06/graffpass-your-graffiti-compass/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/10/06/graffpass-your-graffiti-compass/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1331</post-id>	</item>
+		<item>
+		<title>Update PAF</title>
+		<link>/2014/09/17/update-paf/</link>
+					<comments>/2014/09/17/update-paf/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2014 10:01:39 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[webdec]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/09/17/update-paf/</guid>
+
+					<description><![CDATA[I created a new home page for public art found. I&#8217;ve accumulated over 120,000 images in the last few days and want to start resurfacing them in meaningful ways. Thinking about the future, I have created the potential for having ads. I took ads off another website and plopped them on. I think they look [&#8230;]
+<p><a href="/2014/09/17/update-paf/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/09/17/update-paf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1328</post-id>	</item>
+		<item>
+		<title>Next phase of Public Artfound is in action.</title>
+		<link>/2014/09/10/next-phase-of-public-artfound-is-in-action/</link>
+					<comments>/2014/09/10/next-phase-of-public-artfound-is-in-action/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2014 22:01:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[paf]]></category>
+		<category><![CDATA[ror]]></category>
+		<category><![CDATA[rubyonrails]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/09/10/next-phase-of-public-artfound-is-in-action/</guid>
+
+					<description><![CDATA[Up until now, I struggled with the &#8220;empty party&#8221; syndrome. I was building a community for content sharing and storing, but didn&#8217;t have any content. As a result, I was trying to attract an audience without any reason for them to take Public Artfound. The value created from the twitter bot I created made me [&#8230;]
+<p><a href="/2014/09/10/next-phase-of-public-artfound-is-in-action/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/09/10/next-phase-of-public-artfound-is-in-action/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">253</post-id>	</item>
+		<item>
+		<title>Talk from Orbital&#8217;s Lesson&#8217;s Learned</title>
+		<link>/2014/09/10/talk-from-orbitals-lessons-learned/</link>
+					<comments>/2014/09/10/talk-from-orbitals-lessons-learned/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2014 12:50:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/09/10/talk-from-orbitals-lessons-learned/</guid>
+
+					<description><![CDATA[My name is Lenny Bogdonoff and I’ve been working on a platform for graffiti and street artists to showcase their work online. Think Wikipedia for graffiti artists. During the day, I am a software engineer for the New Yorker magazine. I joined Orbital after I read Gary&#8217;s blog posts titled “On Self-Sufficiency.” The post discusses [&#8230;]
+<p><a href="/2014/09/10/talk-from-orbitals-lessons-learned/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/09/10/talk-from-orbitals-lessons-learned/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1326</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/09/09/246/</link>
+					<comments>/2014/09/09/246/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 09 Sep 2014 14:01:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">/2014/09/09/246/</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>/2014/09/09/246/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">246</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/09/09/258/</link>
+					<comments>/2014/09/09/258/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 09 Sep 2014 14:01:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">/2014/09/09/258/</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>/2014/09/09/258/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">258</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/09/07/249/</link>
+					<comments>/2014/09/07/249/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sun, 07 Sep 2014 12:02:45 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">/2014/09/07/249/</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>/2014/09/07/249/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">249</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/prototype/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:03:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>I wrote an API</title>
+		<link>/2014/08/06/i-wrote-an-api/</link>
+					<comments>/2014/08/06/i-wrote-an-api/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2014 16:08:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[game development]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/06/i-wrote-an-api/</guid>
+
+					<description><![CDATA[Just as Gary and Wayne talked about not building an API, I did it. The API returns a random graffiti image from a database I have: http://publicartfound.herokuapp.com/get_graffiti The API return a JSON object containing a URL to a graffiti image. It looks like this: { data: ""https://s3.amazonaws.com/lkbg-aws-box/10790544143_0b07aab385_o.jpg"" } Although this isnt keep score correctly, the [&#8230;]
+<p><a href="/2014/08/06/i-wrote-an-api/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/06/i-wrote-an-api/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">374</post-id>	</item>
+		<item>
+		<title>Rule: Dont start coding at 12:30am</title>
+		<link>/2014/08/06/rule-dont-start-coding-at-1230am/</link>
+					<comments>/2014/08/06/rule-dont-start-coding-at-1230am/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2014 06:12:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[crowdsourcing]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[mindmeld games]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[streetart]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/06/rule-dont-start-coding-at-1230am/</guid>
+
+					<description><![CDATA[Incomplete prototype is live here: http://publicartfound.herokuapp.com/ Code is here: https://github.com/rememberlenny/publicartfound I talked with Nick today and decided to build out a graffiti game. This is a tool for encouraging people to build out the community&#8217;s content for the New Public Arts Foundation projects. Im creating a system to encourage people to help identify the artists [&#8230;]
+<p><a href="/2014/08/06/rule-dont-start-coding-at-1230am/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/06/rule-dont-start-coding-at-1230am/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">375</post-id>	</item>
+		<item>
+		<title>code before and after work</title>
+		<link>/2014/07/16/code-before-and-after-work/</link>
+					<comments>/2014/07/16/code-before-and-after-work/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2014 11:48:24 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[Web Development]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/16/code-before-and-after-work/</guid>
+
+					<description><![CDATA[Modified the profile page for Three Points this morning.
+<p><a href="/2014/07/16/code-before-and-after-work/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/16/code-before-and-after-work/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">461</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/16/heading-home-8/</link>
+					<comments>/2014/07/16/heading-home-8/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2014 04:59:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[MadeWithPaper]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[sketching]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[TrainIdeation]]></category>
+		<guid isPermaLink="false">/2014/07/16/heading-home/</guid>
+
+					<description><![CDATA[heading home
+<p><a href="/2014/07/16/heading-home-8/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/16/heading-home-8/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">450</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/16/heading-home/</link>
+					<comments>/2014/07/16/heading-home/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2014 04:59:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[MadeWithPaper]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[sketching]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[TrainIdeation]]></category>
+		<guid isPermaLink="false">/2014/07/16/heading-home/</guid>
+
+					<description><![CDATA[heading home
+<p><a href="/2014/07/16/heading-home/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/16/heading-home/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">462</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/16/heading-home-2-2/</link>
+					<comments>/2014/07/16/heading-home-2-2/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2014 04:59:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[MadeWithPaper]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[sketching]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[TrainIdeation]]></category>
+		<guid isPermaLink="false">/2014/07/16/heading-home-2/</guid>
+
+					<description><![CDATA[heading home
+<p><a href="/2014/07/16/heading-home-2-2/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/16/heading-home-2-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">453</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/16/heading-home-2/</link>
+					<comments>/2014/07/16/heading-home-2/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2014 04:59:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[MadeWithPaper]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[sketching]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[TrainIdeation]]></category>
+		<guid isPermaLink="false">/2014/07/16/heading-home-2/</guid>
+
+					<description><![CDATA[heading home
+<p><a href="/2014/07/16/heading-home-2/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/16/heading-home-2/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">465</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/16/heading-home-3/</link>
+					<comments>/2014/07/16/heading-home-3/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2014 04:59:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[MadeWithPaper]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[sketching]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[TrainIdeation]]></category>
+		<guid isPermaLink="false">/2014/07/16/heading-home-3/</guid>
+
+					<description><![CDATA[heading home
+<p><a href="/2014/07/16/heading-home-3/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/16/heading-home-3/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">468</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/16/heading-home-3-2/</link>
+					<comments>/2014/07/16/heading-home-3-2/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2014 04:59:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[MadeWithPaper]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[sketching]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[TrainIdeation]]></category>
+		<guid isPermaLink="false">/2014/07/16/heading-home-3/</guid>
+
+					<description><![CDATA[heading home
+<p><a href="/2014/07/16/heading-home-3-2/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/16/heading-home-3-2/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">456</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/07/16/heading-home-4-2/</link>
+					<comments>/2014/07/16/heading-home-4-2/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2014 04:58:54 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[MadeWithPaper]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[sketching]]></category>
+		<category><![CDATA[Startup]]></category>
+		<category><![CDATA[TrainIdeation]]></category>
+		<guid isPermaLink="false">/2014/07/16/heading-home-4/</guid>
+
+					<description><![CDATA[heading home
+<p><a href="/2014/07/16/heading-home-4-2/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/16/heading-home-4-2/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1710</post-id>	</item>
+	</channel>
+</rss>

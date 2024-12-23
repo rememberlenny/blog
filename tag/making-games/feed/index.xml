@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/making-games/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:02:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>End of day reflection</title>
+		<link>/2014/08/07/end-of-day-reflection/</link>
+					<comments>/2014/08/07/end-of-day-reflection/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2014 03:05:53 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[analytics]]></category>
+		<category><![CDATA[game development]]></category>
+		<category><![CDATA[making games]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/07/end-of-day-reflection/</guid>
+
+					<description><![CDATA[I circulated my prototype on Reddit&#8217;s /r/graffiti today. I didnt get any upvotes, but I believe I got traffic from the site. I wasn&#8217;t able to get Google Analytics to register my new site, so I didnt get any hard numbers. Based on my posts in /r/graffiti, I am starting to believe the audience is [&#8230;]
+<p><a href="/2014/08/07/end-of-day-reflection/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/07/end-of-day-reflection/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">366</post-id>	</item>
+	</channel>
+</rss>

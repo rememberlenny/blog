@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/marketing-strategies/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:00:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>On email newsletters for Big Media</title>
+		<link>/2015/11/15/on-email-newsletters-for-big-media/</link>
+					<comments>/2015/11/15/on-email-newsletters-for-big-media/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sun, 15 Nov 2015 01:17:53 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Email Marketing]]></category>
+		<category><![CDATA[Marketing Strategies]]></category>
+		<category><![CDATA[Newspapers]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2015/11/15/on-email-newsletters-for-big-media/</guid>
+
+					<description><![CDATA[Publishers are finding that the best way to access millennial audiences is through email. New email newsletters are drawing attention from media execs and celebrities and attracting corporate level ad partnerships. Publications are taking email newsletters promotion seriously, with prominent signup placements on every page. Buzzfeed successfully ramped up email newsletters Buzzfeed reported a 23% [&#8230;]
+<p><a href="/2015/11/15/on-email-newsletters-for-big-media/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2015/11/15/on-email-newsletters-for-big-media/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">753</post-id>	</item>
+	</channel>
+</rss>

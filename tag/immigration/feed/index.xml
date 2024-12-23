@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/immigration/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:01:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Immigrant Labor and Exploited Populations</title>
+		<link>/2014/12/02/immigrant-labor-and-exploited-populations/</link>
+					<comments>/2014/12/02/immigrant-labor-and-exploited-populations/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 02 Dec 2014 18:25:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[colonialism]]></category>
+		<category><![CDATA[h1b visa]]></category>
+		<category><![CDATA[immigration]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/12/02/immigrant-labor-and-exploited-populations/</guid>
+
+					<description><![CDATA[While at my parents place, I was repacking old books from college and was reminded by all the course materials I forgot about. I took a number of classes on Imperialism and Colonialism (capital I and C), American slavery, and exploited populations in the 18th and 19th century. I haven&#8217;t thought about this stuff in [&#8230;]
+<p><a href="/2014/12/02/immigrant-labor-and-exploited-populations/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/12/02/immigrant-labor-and-exploited-populations/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">156</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/stanford/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:04:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>MediaX continued and predictive data analytics</title>
+		<link>/2013/01/11/mediax-continued-and-predictive-data-analytics/</link>
+					<comments>/2013/01/11/mediax-continued-and-predictive-data-analytics/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 11 Jan 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[education]]></category>
+		<category><![CDATA[global collaboration]]></category>
+		<category><![CDATA[neuroscience]]></category>
+		<category><![CDATA[stanford]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2013/01/11/mediax-continued-and-predictive-data-analytics/</guid>
+
+					<description><![CDATA[Continuing MediaX Everyday there is more things to learn and share, so I need to quickly get through these MediaX notes. Paulo Blikstein talked about the crisis of students who don&#8217;t care about science in math. By first grade 70% of students have no interest in science. By the 7th grade, the sample of students [&#8230;]
+<p><a href="/2013/01/11/mediax-continued-and-predictive-data-analytics/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2013/01/11/mediax-continued-and-predictive-data-analytics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">727</post-id>	</item>
+		<item>
+		<title>Talks about Education</title>
+		<link>/2013/01/10/talks-about-education/</link>
+					<comments>/2013/01/10/talks-about-education/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 10 Jan 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[education]]></category>
+		<category><![CDATA[academia]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[neuroscience]]></category>
+		<category><![CDATA[stanford]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2013/01/10/talks-about-education/</guid>
+
+					<description><![CDATA[I attended, MediaX Held at Stanford university to share emerging academic research. The notes from the MediaX talks can be found here. I suggest copying the content and moving them to your favorite editor. The openning was given by Claude Steele, a scholar of Stereotype Threat. Claude&#8217;s openning emphasized the changes in the research that [&#8230;]
+<p><a href="/2013/01/10/talks-about-education/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2013/01/10/talks-about-education/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">728</post-id>	</item>
+	</channel>
+</rss>

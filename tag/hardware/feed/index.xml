@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/hardware/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:00:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Computer Vision in commercial establishments</title>
+		<link>/2016/10/24/computer-vision-in-commercial-establishments/</link>
+					<comments>/2016/10/24/computer-vision-in-commercial-establishments/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2016 18:09:22 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Computer Science]]></category>
+		<category><![CDATA[Computer Vision]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Image Recognition]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2016/10/24/computer-vision-in-commercial-establishments/</guid>
+
+					<description><![CDATA[Security camera to scene analysis and summary insight report.Computer Vision in commercial establishments Since the inception of the “quantified self” and corresponding hardware devices, I have been curious about what people are doing with the data they collect about themselves. Fitbits, Apple Watches, and step tracking tools provide individuals with insight about their physical activity. [&#8230;]
+<p><a href="/2016/10/24/computer-vision-in-commercial-establishments/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2016/10/24/computer-vision-in-commercial-establishments/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41</post-id>	</item>
+	</channel>
+</rss>

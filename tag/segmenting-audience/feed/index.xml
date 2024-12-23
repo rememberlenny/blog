@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/segmenting-audience/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:03:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Making sense of email</title>
+		<link>/2014/07/24/making-sense-of-email/</link>
+					<comments>/2014/07/24/making-sense-of-email/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2014 13:01:54 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Email Marketing]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[segmenting audience]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/07/24/making-sense-of-email/</guid>
+
+					<description><![CDATA[I gathered 28 email addresses today. I primarily used reddits /r/nyc to promote my publicart.io account. Looking at the google analytics traffic, I think that was the most effective tool. I also used the @publicartfound account to tweet out. I think this may have gotten some good followers too. I decided to segment the users [&#8230;]
+<p><a href="/2014/07/24/making-sense-of-email/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/07/24/making-sense-of-email/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">425</post-id>	</item>
+	</channel>
+</rss>

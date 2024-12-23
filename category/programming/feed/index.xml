@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/category/programming/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Sun, 11 Oct 2020 08:54:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Text rendering stuff most people might not know</title>
+		<link>/2020/10/10/text-rendering-stuff-most-people-might-not-know/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sat, 10 Oct 2020 05:01:38 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<category><![CDATA[fonts]]></category>
+		<category><![CDATA[typography]]></category>
+		<guid isPermaLink="false">/?p=1846</guid>
+
+					<description><![CDATA[I was stuck on a problem that I wanted to write out. The problem I was trying to solve could be simplified to the following: I have a box in the browser with fixed dimensions. I have a large number of words, which vary in size, which will fill the box. If a full box [&#8230;]
+<p><a href="/2020/10/10/text-rendering-stuff-most-people-might-not-know/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1846</post-id>	</item>
+		<item>
+		<title>Making the variable fonts Figma plugin (part 1 &#8211; what is variable fonts [simple])</title>
+		<link>/2020/09/08/making-the-variable-fonts-figma-plugin-part-1-what-is-variable-fonts-simple/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2020 17:06:40 +0000</pubDate>
+				<category><![CDATA[frontend]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[figma]]></category>
+		<category><![CDATA[typography]]></category>
+		<category><![CDATA[variable fonts]]></category>
+		<guid isPermaLink="false">/?p=1815</guid>
+
+					<description><![CDATA[Importantly, variable fonts are active and available across all major browsers.
+<p><a href="/2020/09/08/making-the-variable-fonts-figma-plugin-part-1-what-is-variable-fonts-simple/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1815</post-id>	</item>
+		<item>
+		<title>React Figma Plugin &#8211; How to get data from the canvas to your app</title>
+		<link>/2020/09/02/react-figma-plugin-how-to-get-data-from-the-canvas-to-your-app/</link>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2020 21:54:35 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<category><![CDATA[figma]]></category>
+		<guid isPermaLink="false">/?p=1806</guid>
+
+					<description><![CDATA[I had much too hard of a time groking the Figma Plugin&#8217;s documentation, and thought I would leave a note for any brave souls to follow. Figma has a great API and documentation around how to make a plugin on the desktop app. When writing a plugin, you have access to the entire Figma canvas [&#8230;]
+<p><a href="/2020/09/02/react-figma-plugin-how-to-get-data-from-the-canvas-to-your-app/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1806</post-id>	</item>
+		<item>
+		<title>From webdev to computer vision and machine learning</title>
+		<link>/2017/10/13/from-webdev-to-computer-vision-and-machine-learning/</link>
+					<comments>/2017/10/13/from-webdev-to-computer-vision-and-machine-learning/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2017 16:13:09 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<category><![CDATA[Computer Vision]]></category>
+		<category><![CDATA[Future Technology]]></category>
+		<category><![CDATA[Geospatial]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Towards Data Science]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2017/10/13/from-webdev-to-computer-vision-and-machine-learning/</guid>
+
+					<description><![CDATA[For the past four years, I’ve had the notion that I was going to start a company. The underlying feeling was that I wanted to work on something that I could passionately take full responsibility for. Although this has been a constant desire, I have not taken the concrete steps to make this a reality. [&#8230;]
+<p><a href="/2017/10/13/from-webdev-to-computer-vision-and-machine-learning/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2017/10/13/from-webdev-to-computer-vision-and-machine-learning/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">751</post-id>	</item>
+	</channel>
+</rss>

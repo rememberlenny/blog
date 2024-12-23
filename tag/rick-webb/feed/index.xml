@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/rick-webb/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Thu, 10 Sep 2020 20:35:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Two weeks after my 25th birthday, I give you a list all my paid jobs</title>
+		<link>/2014/09/06/two-weeks-after-my-25th-birthday-i-give-you-a/</link>
+					<comments>/2014/09/06/two-weeks-after-my-25th-birthday-i-give-you-a/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sat, 06 Sep 2014 20:11:00 +0000</pubDate>
+				<category><![CDATA[education]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[employment]]></category>
+		<category><![CDATA[jason shen]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[looking back]]></category>
+		<category><![CDATA[rick webb]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/09/06/two-weeks-after-my-25th-birthday-i-give-you-a/</guid>
+
+					<description><![CDATA[My father has held a number of jobs through his life, but he has a knack for sales. My mother moved to the US when she was 19 years old, after saving an amount of money that I have yet to be able to save myself (at 25). Inspired by blog posts from Jason Shen [&#8230;]
+<p><a href="/2014/09/06/two-weeks-after-my-25th-birthday-i-give-you-a/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/09/06/two-weeks-after-my-25th-birthday-i-give-you-a/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">264</post-id>	</item>
+	</channel>
+</rss>

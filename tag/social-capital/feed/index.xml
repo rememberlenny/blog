@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/social-capital/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:03:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>&#8220;Community is the result of someone planting a flag and waiting to see what happens&#8221;</title>
+		<link>/2014/06/27/community-is-the-result-of-someone-planting-a/</link>
+					<comments>/2014/06/27/community-is-the-result-of-someone-planting-a/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2014 17:13:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[robert putnam]]></category>
+		<category><![CDATA[social capital]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/06/27/community-is-the-result-of-someone-planting-a/</guid>
+
+					<description><![CDATA[I have a personal networking thesis. I believe the social bonds with the greatest potential value are those that are less than three degrees of separation away. This isn&#8217;t to say that strangers or seemingly random connections can&#8217;t be valuable. This is to say that those who are further away have greater value to offer [&#8230;]
+<p><a href="/2014/06/27/community-is-the-result-of-someone-planting-a/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/06/27/community-is-the-result-of-someone-planting-a/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1299</post-id>	</item>
+	</channel>
+</rss>

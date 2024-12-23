@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/graffiti/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:02:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Tracking street art with machine learning — updates</title>
+		<link>/2018/11/08/tracking-street-art-with-machine-learning%e2%80%8a-%e2%80%8aupdates/</link>
+					<comments>/2018/11/08/tracking-street-art-with-machine-learning%e2%80%8a-%e2%80%8aupdates/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 08 Nov 2018 14:36:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Art]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Street Art]]></category>
+		<category><![CDATA[Towards Data Science]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2018/11/08/tracking-street-art-with-machine-learning%e2%80%8a-%e2%80%8aupdates/</guid>
+
+					<description><![CDATA[Mural from Reyes, Revok and Steel from MSK (https://www.fatcap.com/live/revok-steel-and-reyes.html) Thank you for following the Public Art[⁰] project for building a genealogy around street art, using machine learning. This project is aiming to create a central place for documenting street art from around the world, and use modern image analysis techniques to build a historical reference [&#8230;]
+<p><a href="/2018/11/08/tracking-street-art-with-machine-learning%e2%80%8a-%e2%80%8aupdates/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2018/11/08/tracking-street-art-with-machine-learning%e2%80%8a-%e2%80%8aupdates/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">747</post-id>	</item>
+		<item>
+		<title>How I built a REST endpoint based Computer Vision task using Flask</title>
+		<link>/2017/12/31/how-i-built-a-rest-endpoint-based-computer-vision-task-using-flask/</link>
+					<comments>/2017/12/31/how-i-built-a-rest-endpoint-based-computer-vision-task-using-flask/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2017 01:33:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Computer Vision]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2017/12/31/how-i-built-a-rest-endpoint-based-computer-vision-task-using-flask/</guid>
+
+					<description><![CDATA[This is a follow up on my process of developing familiarity with computer vision and machine learning techniques. As a web developer (read as “rails developer”), I found this growing sphere exciting, but don’t work with these technologies on a day-to-day. This is month three of a two year journey to explore this field. If [&#8230;]
+<p><a href="/2017/12/31/how-i-built-a-rest-endpoint-based-computer-vision-task-using-flask/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2017/12/31/how-i-built-a-rest-endpoint-based-computer-vision-task-using-flask/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">754</post-id>	</item>
+		<item>
+		<title>How I Used Machine Learning to Inspire Physical Paintings</title>
+		<link>/2017/07/11/how-i-used-machine-learning-to-inspire-physical-paintings/</link>
+					<comments>/2017/07/11/how-i-used-machine-learning-to-inspire-physical-paintings/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 11 Jul 2017 19:47:31 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Web Development]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2017/07/11/how-i-used-machine-learning-to-inspire-physical-paintings/</guid>
+
+					<description><![CDATA[Since I was 15 years old, I have been painting graffiti under bridges and in abandoned buildings. I grew up in San Francisco when street art was booming, and inspired by the colors and aesthetic, I looked for ways to create art and taught myself to paint. As I got older, I discovered the graffiti [&#8230;]
+<p><a href="/2017/07/11/how-i-used-machine-learning-to-inspire-physical-paintings/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2017/07/11/how-i-used-machine-learning-to-inspire-physical-paintings/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">749</post-id>	</item>
+		<item>
+		<title>Countries of GraffPass users</title>
+		<link>/2014/10/11/countries-of-graffpass-users/</link>
+					<comments>/2014/10/11/countries-of-graffpass-users/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sat, 11 Oct 2014 17:45:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[location]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/10/11/countries-of-graffpass-users/</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>/2014/10/11/countries-of-graffpass-users/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">206</post-id>	</item>
+		<item>
+		<title>api to graffiti data</title>
+		<link>/2014/10/09/api-to-graffiti-data/</link>
+					<comments>/2014/10/09/api-to-graffiti-data/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 09 Oct 2014 22:01:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/10/09/api-to-graffiti-data/</guid>
+
+					<description><![CDATA[I made an effective low fidelity API to the graffiti data. You can now query with a location and get back results in chunks of 25. You can page through the results via the page attribute. I&#8217;m conscious that there is currently no key/secret pass system. I have what I need for the application feed, [&#8230;]
+<p><a href="/2014/10/09/api-to-graffiti-data/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/10/09/api-to-graffiti-data/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">210</post-id>	</item>
+		<item>
+		<title>Deciding where to focus attention</title>
+		<link>/2014/10/08/deciding-where-to-focus-attention/</link>
+					<comments>/2014/10/08/deciding-where-to-focus-attention/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2014 21:25:38 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[google docs]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/10/08/deciding-where-to-focus-attention/</guid>
+
+					<description><![CDATA[I set up http://www.graffpass.com/find today. Its a way for people to find the graffiti that is closest to them, based on a pool of instagram photos I scraped over two weeks. This is an concept experiment for a iPhone app I want to finish next week. The application currently has a feature for users to [&#8230;]
+<p><a href="/2014/10/08/deciding-where-to-focus-attention/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/10/08/deciding-where-to-focus-attention/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">211</post-id>	</item>
+		<item>
+		<title>Graffpass: Your graffiti compass</title>
+		<link>/2014/10/06/graffpass-your-graffiti-compass/</link>
+					<comments>/2014/10/06/graffpass-your-graffiti-compass/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2014 22:02:12 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[graffpass]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[paf]]></category>
+		<category><![CDATA[process]]></category>
+		<category><![CDATA[streetart]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/10/06/graffpass-your-graffiti-compass/</guid>
+
+					<description><![CDATA[After pulling streetart and graffiti tagged pictures on Instagram, I quickly realized how unmanageable the pictures were becoming. I was gathering approximately 20,000 pictures a day and didn&#8217;t have an effective way of browsing them. There were too many pictures for the traditional &#8216;grid&#8217; layout design. Since they were pictures, there weren&#8217;t too many other [&#8230;]
+<p><a href="/2014/10/06/graffpass-your-graffiti-compass/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/10/06/graffpass-your-graffiti-compass/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1331</post-id>	</item>
+		<item>
+		<title>Physical Web</title>
+		<link>/2014/10/02/physical-web/</link>
+					<comments>/2014/10/02/physical-web/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2014 16:20:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[beacon]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[internet of things]]></category>
+		<category><![CDATA[physical web]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/10/02/physical-web/</guid>
+
+					<description><![CDATA[I can&#8217;t help to see the similarities of Graffiti discovery and new Beacon technology usage. In detecting and using a public smart device, a Beacon announces to a receiver. If the receiver, such as a cellphone, is looking for the Beacon, it can allow instant interactions with the device. In discovering Graffiti, a person using [&#8230;]
+<p><a href="/2014/10/02/physical-web/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/10/02/physical-web/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">214</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/09/24/every-2-seconds-a-new-graffiti-related-picture-is/</link>
+					<comments>/2014/09/24/every-2-seconds-a-new-graffiti-related-picture-is/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2014 01:33:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/09/24/every-2-seconds-a-new-graffiti-related-picture-is/</guid>
+
+					<description><![CDATA[Every 2 seconds, a new graffiti related picture is posted on Instagram. I made a map that visually displays all the geotagged images. About every 10 seconds a new geotagged photo appears. http://paf-instagram.herokuapp.com/
+<p><a href="/2014/09/24/every-2-seconds-a-new-graffiti-related-picture-is/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/09/24/every-2-seconds-a-new-graffiti-related-picture-is/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">227</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/09/12/a-friend-from-shanghai-sent-these-to-me-today/</link>
+					<comments>/2014/09/12/a-friend-from-shanghai-sent-these-to-me-today/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2014 03:21:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[beast mode crew]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[streetart]]></category>
+		<guid isPermaLink="false">/2014/09/12/a-friend-from-shanghai-sent-these-to-me-today/</guid>
+
+					<description><![CDATA[A friend from shanghai sent these to me today. Last graffiti I did in the city.
+<p><a href="/2014/09/12/a-friend-from-shanghai-sent-these-to-me-today/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/09/12/a-friend-from-shanghai-sent-these-to-me-today/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">240</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Remember Lenny</title>
+	<atom:link href="/tag/startups/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Writing online</description>
+	<lastBuildDate>Mon, 09 Mar 2020 04:02:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Next phase of Public Artfound is in action.</title>
+		<link>/2014/09/10/next-phase-of-public-artfound-is-in-action/</link>
+					<comments>/2014/09/10/next-phase-of-public-artfound-is-in-action/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2014 22:01:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[paf]]></category>
+		<category><![CDATA[ror]]></category>
+		<category><![CDATA[rubyonrails]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/09/10/next-phase-of-public-artfound-is-in-action/</guid>
+
+					<description><![CDATA[Up until now, I struggled with the &#8220;empty party&#8221; syndrome. I was building a community for content sharing and storing, but didn&#8217;t have any content. As a result, I was trying to attract an audience without any reason for them to take Public Artfound. The value created from the twitter bot I created made me [&#8230;]
+<p><a href="/2014/09/10/next-phase-of-public-artfound-is-in-action/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/09/10/next-phase-of-public-artfound-is-in-action/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">253</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/09/09/246/</link>
+					<comments>/2014/09/09/246/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 09 Sep 2014 14:01:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">/2014/09/09/246/</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>/2014/09/09/246/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">246</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/09/09/258/</link>
+					<comments>/2014/09/09/258/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Tue, 09 Sep 2014 14:01:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">/2014/09/09/258/</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>/2014/09/09/258/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">258</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/09/07/249/</link>
+					<comments>/2014/09/07/249/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sun, 07 Sep 2014 12:02:45 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">/2014/09/07/249/</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>/2014/09/07/249/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">249</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/2014/09/07/261/</link>
+					<comments>/2014/09/07/261/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Sun, 07 Sep 2014 12:02:45 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">/2014/09/07/261/</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>/2014/09/07/261/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">261</post-id>	</item>
+		<item>
+		<title>End of day reflection</title>
+		<link>/2014/08/07/end-of-day-reflection/</link>
+					<comments>/2014/08/07/end-of-day-reflection/#comments</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2014 03:05:53 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[analytics]]></category>
+		<category><![CDATA[game development]]></category>
+		<category><![CDATA[making games]]></category>
+		<category><![CDATA[orbital 2014]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[webdev]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/07/end-of-day-reflection/</guid>
+
+					<description><![CDATA[I circulated my prototype on Reddit&#8217;s /r/graffiti today. I didnt get any upvotes, but I believe I got traffic from the site. I wasn&#8217;t able to get Google Analytics to register my new site, so I didnt get any hard numbers. Based on my posts in /r/graffiti, I am starting to believe the audience is [&#8230;]
+<p><a href="/2014/08/07/end-of-day-reflection/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/07/end-of-day-reflection/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">366</post-id>	</item>
+		<item>
+		<title>Rule: Dont start coding at 12:30am</title>
+		<link>/2014/08/06/rule-dont-start-coding-at-1230am/</link>
+					<comments>/2014/08/06/rule-dont-start-coding-at-1230am/#respond</comments>
+		
+		<dc:creator><![CDATA[rememberlenny]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2014 06:12:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[crowdsourcing]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[mindmeld games]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[PublicArtFound]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[streetart]]></category>
+		<guid isPermaLink="false">https://transferrememberlenny.wordpress.com/2014/08/06/rule-dont-start-coding-at-1230am/</guid>
+
+					<description><![CDATA[Incomplete prototype is live here: http://publicartfound.herokuapp.com/ Code is here: https://github.com/rememberlenny/publicartfound I talked with Nick today and decided to build out a graffiti game. This is a tool for encouraging people to build out the community&#8217;s content for the New Public Arts Foundation projects. Im creating a system to encourage people to help identify the artists [&#8230;]
+<p><a href="/2014/08/06/rule-dont-start-coding-at-1230am/" rel="nofollow">Source</a></p>]]></description>
+		
+					<wfw:commentRss>/2014/08/06/rule-dont-start-coding-at-1230am/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">375</post-id>	</item>
+	</channel>
+</rss>
